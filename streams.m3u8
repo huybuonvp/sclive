@@ -2,116 +2,116 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="321443" tvg-name="[21:00] Yaypan FK vs Termez Surkhon | BLV SATIVA" tvg-logo="https://sta.vnres.co/file/common/20260524/2e78db57f5633c6c5dca48acf0775455.png" group-title="UZB Cup",[21:00] Yaypan FK vs Termez Surkhon | BLV SATIVA
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779900536-0-0-af7d6e0c03c6024a64a96e17bf094ee2
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="387694" tvg-name="[22:00] Ararat-Armenia FC vs Gandzasar Kapan | CR Bưởi" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png" group-title="ARM D1",[22:00] Ararat-Armenia FC vs Gandzasar Kapan | CR Bưởi
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779900536-0-0-8d7605e1252210b710318d3d84ad113d
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="472241" tvg-name="[21:00] Yaypan FK vs Termez Surkhon | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260524/2e78db57f5633c6c5dca48acf0775455.png" group-title="UZB Cup",[21:00] Yaypan FK vs Termez Surkhon | BLV XO
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779900536-0-0-c7bcadb10d884f401d3477f6b4936f08
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="607552" tvg-name="[21:00] Pakhtakor vs FC Kattaqorgon | ĐỖ TÚ TÀI" tvg-logo="https://sta.vnres.co/file/common/20260524/428270ab82477cd5de81445ee166083d.png" group-title="UZB Cup",[21:00] Pakhtakor vs FC Kattaqorgon | ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779900536-0-0-a02d17b218c5e01fc82b02e15a22614b
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="380460" tvg-name="[22:00] Urartu vs FC Noah | BLV ENZO" tvg-logo="https://sta.vnres.co/file/common/20260524/916d5dd94b074b0711e7f152f5e07650.png" group-title="ARM D1",[22:00] Urartu vs FC Noah | BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779900536-0-0-ae1ba43ab15b7fb627892dffb59aa369
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="484845" tvg-name="[22:30] Ilves Tampere vs TPS Turku | A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260524/2da0187842d5d81aeb47b67b5d2d7f8f.png" group-title="FIN Cup",[22:30] Ilves Tampere vs TPS Turku | A BỆU
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779900536-0-0-2577fb3d99d8815b149e468ee9da3c33
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="283501" tvg-name="[22:00] Urartu vs FC Noah | BLV KAN" tvg-logo="https://sta.vnres.co/file/common/20260524/916d5dd94b074b0711e7f152f5e07650.png" group-title="ARM D1",[22:00] Urartu vs FC Noah | BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e540a9f9472625cea6ee9ec45f84711e&txTime=6a1766c8
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912009" tvg-name="[22:00] FC Pyunik vs FK Van Charentsavan | TYPN" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[22:00] FC Pyunik vs FK Van Charentsavan | TYPN
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=f1fbe71219c588463b8bbd9c77b6266f&txTime=6a1766c8
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="611377" tvg-name="[22:00] FC Pyunik vs FK Van Charentsavan | TƯ MÃ Ý" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[22:00] FC Pyunik vs FK Van Charentsavan | TƯ MÃ Ý
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779900536-0-0-ac852a691cd03ebfaf3cacc1fffb5393
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="595335" tvg-name="[22:00] Urartu vs FC Noah | NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260524/916d5dd94b074b0711e7f152f5e07650.png" group-title="ARM D1",[22:00] Urartu vs FC Noah | NGƯỜI CÁ
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779900536-0-0-4d91b813005e44522f4da16d5ff4b0ab
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912102" tvg-name="[21:00] Pakhtakor vs FC Kattaqorgon | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260524/428270ab82477cd5de81445ee166083d.png" group-title="UZB Cup",[21:00] Pakhtakor vs FC Kattaqorgon | BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=62c3be39942b675e4a6e65053aea1058&txTime=6a1766c8
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="598119" tvg-name="[22:00] FC Pyunik vs FK Van Charentsavan | BLV A TINH" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[22:00] FC Pyunik vs FK Van Charentsavan | BLV A TINH
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=bc0fc1c6eb0aba5984450ef52c929ff8&txTime=6a1766c8
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="536185" tvg-name="[22:00] FC Pyunik vs FK Van Charentsavan | BLV A WIN" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[22:00] FC Pyunik vs FK Van Charentsavan | BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779900536-0-0-1a37e026fed122284e8dde10eebed899
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="532081" tvg-name="[22:00] Turan vs Ekibastuzets | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260524/f9ba13b88c59aff848c04a3a826ffa54.png" group-title="KAZ D1",[22:00] Turan vs Ekibastuzets | BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779900536-0-0-ed0740505651c668a7312916187b1a92
+#EXTINF:-1 tvg-id="527383" tvg-name="[22:00] Ararat-Armenia FC vs Gandzasar Kapan | BLV ROBBEN" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png" group-title="ARM D1",[22:00] Ararat-Armenia FC vs Gandzasar Kapan | BLV ROBBEN
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779904568-0-0-f2f7e91a21993feb3d8802800a4ee06a
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="491873" tvg-name="[22:00] Ararat-Armenia FC vs Gandzasar Kapan | BLV VIP" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png" group-title="ARM D1",[22:00] Ararat-Armenia FC vs Gandzasar Kapan | BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8131496b4f49e0d1eee2dc0c3c5c7edc&txTime=6a1766c8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=63c55b51ca45fc9d2ac979e026e9ee6d&txTime=6a178c0c
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912060" tvg-name="[22:30] Ilves Tampere vs TPS Turku | DECO" tvg-logo="https://sta.vnres.co/file/common/20260524/2da0187842d5d81aeb47b67b5d2d7f8f.png" group-title="FIN Cup",[22:30] Ilves Tampere vs TPS Turku | DECO
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779900536-0-0-8cbfc8104a41f2d3a158914743c3d341
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="602019" tvg-name="[22:00] Turan vs Ekibastuzets | BLV RYO" tvg-logo="https://sta.vnres.co/file/common/20260524/f9ba13b88c59aff848c04a3a826ffa54.png" group-title="KAZ D1",[22:00] Turan vs Ekibastuzets | BLV RYO
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779900536-0-0-9c1963de1a5a1d18190fd49d8b73762d
+#EXTINF:-1 tvg-id="380460" tvg-name="[22:00] Urartu vs FC Noah | BLV ENZO" tvg-logo="https://sta.vnres.co/file/common/20260524/916d5dd94b074b0711e7f152f5e07650.png" group-title="ARM D1",[22:00] Urartu vs FC Noah | BLV ENZO
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779904546-0-0-ee9eab07df2723b682a2cae05d4be6d1
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="534055" tvg-name="[22:00] Ararat-Armenia FC vs Gandzasar Kapan | BLV RAMBO" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png" group-title="ARM D1",[22:00] Ararat-Armenia FC vs Gandzasar Kapan | BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d1566320b592c1fe7fdfbe9af2b14505&txTime=6a1766c8
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6eb558fcf88f0863ffee0cfe022921ed&txTime=6a1776cc
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="527383" tvg-name="[22:00] Ararat-Armenia FC vs Gandzasar Kapan | BLV ROBBEN" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png" group-title="ARM D1",[22:00] Ararat-Armenia FC vs Gandzasar Kapan | BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779900536-0-0-e2449326d062b4625d985e85e6d5b486
+#EXTINF:-1 tvg-id="387694" tvg-name="[22:00] Ararat-Armenia FC vs Gandzasar Kapan | CR Bưởi" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png" group-title="ARM D1",[22:00] Ararat-Armenia FC vs Gandzasar Kapan | CR Bưởi
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779910076-0-0-60f650b92ac7141aef5cb45a818ed26b
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="611377" tvg-name="[22:00] FC Pyunik vs FK Van Charentsavan | TƯ MÃ Ý" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[22:00] FC Pyunik vs FK Van Charentsavan | TƯ MÃ Ý
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779904512-0-0-5118d6a34a4b4b36ffda6b9e69d68dac
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="472241" tvg-name="[21:00] Yaypan FK vs Termez Surkhon | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260524/2e78db57f5633c6c5dca48acf0775455.png" group-title="UZB Cup",[21:00] Yaypan FK vs Termez Surkhon | BLV XO
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779902319-0-0-dfd144a6efee7d015d44d49f72e5f4ff
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912102" tvg-name="[21:00] Pakhtakor vs FC Kattaqorgon | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260524/428270ab82477cd5de81445ee166083d.png" group-title="UZB Cup",[21:00] Pakhtakor vs FC Kattaqorgon | BLV RÔSI
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=cfb50e0a42740308bf985cc835d64757&txTime=6a176eea
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912060" tvg-name="[22:30] Ilves Tampere vs TPS Turku | DECO" tvg-logo="https://sta.vnres.co/file/common/20260524/2da0187842d5d81aeb47b67b5d2d7f8f.png" group-title="FIN Cup",[22:30] Ilves Tampere vs TPS Turku | DECO
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779910076-0-0-3f8632d016a6677b114983463ba158e8
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="595335" tvg-name="[22:00] Urartu vs FC Noah | NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260524/916d5dd94b074b0711e7f152f5e07650.png" group-title="ARM D1",[22:00] Urartu vs FC Noah | NGƯỜI CÁ
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779910076-0-0-bcca598677f7e6a049e1ea59c6b9ff23
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="598119" tvg-name="[22:00] FC Pyunik vs FK Van Charentsavan | BLV A TINH" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[22:00] FC Pyunik vs FK Van Charentsavan | BLV A TINH
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=6defb4f81323fe4bad37b528b76e9eb0&txTime=6a178c0c
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="321443" tvg-name="[21:00] Yaypan FK vs Termez Surkhon | BLV SATIVA" tvg-logo="https://sta.vnres.co/file/common/20260524/2e78db57f5633c6c5dca48acf0775455.png" group-title="UZB Cup",[21:00] Yaypan FK vs Termez Surkhon | BLV SATIVA
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779902106-0-0-0c2a400d038138bafa43d602405c045a
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="607552" tvg-name="[21:00] Pakhtakor vs FC Kattaqorgon | ĐỖ TÚ TÀI" tvg-logo="https://sta.vnres.co/file/common/20260524/428270ab82477cd5de81445ee166083d.png" group-title="UZB Cup",[21:00] Pakhtakor vs FC Kattaqorgon | ĐỖ TÚ TÀI
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779910076-0-0-c002901653bf3d96fd242b8d3661a59a
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="9912114" tvg-name="[22:00] Urartu vs FC Noah | BLV VOI" tvg-logo="https://sta.vnres.co/file/common/20260524/916d5dd94b074b0711e7f152f5e07650.png" group-title="ARM D1",[22:00] Urartu vs FC Noah | BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779900536-0-0-5b83d7696df593930b9719009b457b2b
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779910076-0-0-ce93004ddea3bf51071c359f17b0058e
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912050" tvg-name="[22:30] Ilves Tampere vs TPS Turku | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260524/2da0187842d5d81aeb47b67b5d2d7f8f.png" group-title="FIN Cup",[22:30] Ilves Tampere vs TPS Turku | BLV LONG
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=2d4cea66f9f744606b580d53f7d4f42f&txTime=6a1766c8
+#EXTINF:-1 tvg-id="484845" tvg-name="[22:30] Ilves Tampere vs TPS Turku | A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260524/2da0187842d5d81aeb47b67b5d2d7f8f.png" group-title="FIN Cup",[22:30] Ilves Tampere vs TPS Turku | A BỆU
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779909898-0-0-e2b1c6fb119008a41c7a96a658adb9b6
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="283501" tvg-name="[22:00] Urartu vs FC Noah | BLV KAN" tvg-logo="https://sta.vnres.co/file/common/20260524/916d5dd94b074b0711e7f152f5e07650.png" group-title="ARM D1",[22:00] Urartu vs FC Noah | BLV KAN
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7c23b002e154e6245500ee73062bed74&txTime=6a1775e3
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="532081" tvg-name="[22:00] Turan vs Ekibastuzets | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260524/f9ba13b88c59aff848c04a3a826ffa54.png" group-title="KAZ D1",[22:00] Turan vs Ekibastuzets | BLV ALEX
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779904201-0-0-78d9182db1ae899cd35106b2cbd109fe
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="602019" tvg-name="[22:00] Turan vs Ekibastuzets | BLV RYO" tvg-logo="https://sta.vnres.co/file/common/20260524/f9ba13b88c59aff848c04a3a826ffa54.png" group-title="KAZ D1",[22:00] Turan vs Ekibastuzets | BLV RYO
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779904272-0-0-725bea5744a4532fb239dced7dcc9e78
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912009" tvg-name="[22:00] FC Pyunik vs FK Van Charentsavan | TYPN" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[22:00] FC Pyunik vs FK Van Charentsavan | TYPN
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=c31dc23d2b906fdbf437e9bed89481ad&txTime=6a1776dc
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="536185" tvg-name="[22:00] FC Pyunik vs FK Van Charentsavan | BLV A WIN" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[22:00] FC Pyunik vs FK Van Charentsavan | BLV A WIN
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779910076-0-0-64f9549411ae75287194c5b63001d30b
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="9912091" tvg-name="[22:30] Ilves Tampere vs TPS Turku | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260524/2da0187842d5d81aeb47b67b5d2d7f8f.png" group-title="FIN Cup",[22:30] Ilves Tampere vs TPS Turku | BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779900536-0-0-4f8c35ed846c7592bf347e388ba4ec3f
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779906503-0-0-ab55ce4a490fd8291b05bf75174f25a2
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="462413" tvg-name="[22:30] Ilves Tampere vs TPS Turku | SAO LA" tvg-logo="https://sta.vnres.co/file/common/20260524/2da0187842d5d81aeb47b67b5d2d7f8f.png" group-title="FIN Cup",[22:30] Ilves Tampere vs TPS Turku | SAO LA
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=7430119198719c5b6dbfadf02dec0383&txTime=6a1766c8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=89e77d23538a5d057b972a5e00a57944&txTime=6a177dff
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912050" tvg-name="[22:30] Ilves Tampere vs TPS Turku | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260524/2da0187842d5d81aeb47b67b5d2d7f8f.png" group-title="FIN Cup",[22:30] Ilves Tampere vs TPS Turku | BLV LONG
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=ffb867905ccacb478de604514c37dcfd&txTime=6a177e88
 
