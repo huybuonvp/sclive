@@ -2,113 +2,118 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="273736" tvg-name="[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | CHÍ PHÈO" tvg-logo="https://sta.vnres.co/file/common/20260524/262b33513db8a4aaaa53d67a41ac7b6b.png" group-title="CHA D2",[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | CHÍ PHÈO
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1779756428-0-0-2df440579c98c9edab1b3bb9f9a190fe
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912122" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | RICKHANTER" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=00204b9036b69b216df0cd46862af7b9&txTime=6a16ac33
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="494201" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV MESSI" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV MESSI
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779852796-0-0-f20366559c43e789c4cb02e5f197b387
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="595335" tvg-name="[08:00] Xiamen Feilu vs Jiangxi Lushan | NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260524/965b508d42c845c00ad5996bffdf1a1e.png" group-title="CHA D2",[08:00] Xiamen Feilu vs Jiangxi Lushan | NGƯỜI CÁ
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779827941-0-0-46bda1646b2882556bf9639e9897a57a
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="531989" tvg-name="[08:00] Xiamen Feilu vs Jiangxi Lushan | BLV COZY" tvg-logo="https://sta.vnres.co/file/common/20260524/965b508d42c845c00ad5996bffdf1a1e.png" group-title="CHA D2",[08:00] Xiamen Feilu vs Jiangxi Lushan | BLV COZY
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779831944-0-0-62bf51c8c39cd54fc10d8c6049a4696e
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="501412" tvg-name="[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | XUÂN SON" tvg-logo="https://sta.vnres.co/file/common/20260524/262b33513db8a4aaaa53d67a41ac7b6b.png" group-title="CHA D2",[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=f6c35d7acd012e9c419d1fb5eb182596&txTime=6a1642f6
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912060" tvg-name="[08:00] Changchun Xidu vs Beijing IT | DECO" tvg-logo="https://sta.vnres.co/file/common/20260524/3940e139a7fe49993c61bc55a9d718e6.png" group-title="CHA D2",[08:00] Changchun Xidu vs Beijing IT | DECO
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779852568-0-0-516de112e135fd3728236ef489b32810
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="557845" tvg-name="[07:30] Stallion Laguna FC vs Dynamic Herb Cebu | BLV A TÚ" tvg-logo="https://sta.vnres.co/file/common/20260524/c75d113736ab140eb7920100d2088b06.png" group-title="PFL",[07:30] Stallion Laguna FC vs Dynamic Herb Cebu | BLV A TÚ
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779818283-0-0-eb5c3adddfc4f66648f009c9f928f5d5
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="414317" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV TOMMY" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV TOMMY
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779852874-0-0-150b8d1859cfc044daffa23cda2bdea5
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912009" tvg-name="[08:00] Changchun Xidu vs Beijing IT | TYPN" tvg-logo="https://sta.vnres.co/file/common/20260524/3940e139a7fe49993c61bc55a9d718e6.png" group-title="CHA D2",[08:00] Changchun Xidu vs Beijing IT | TYPN
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=9afbe386d7110bef9e62c91c03d36a83&txTime=6a16ac20
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912008" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV TOMIA" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779852649-0-0-c34331cab680688176da6c1f9491f777
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912108" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | TẠ BIÊN GIỚI" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | TẠ BIÊN GIỚI
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779798392-0-0-c561ec5282ad0e43a3436285221af9fd
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912041" tvg-name="[08:00] Xiamen Feilu vs Jiangxi Lushan | BLV TAP" tvg-logo="https://sta.vnres.co/file/common/20260524/965b508d42c845c00ad5996bffdf1a1e.png" group-title="CHA D2",[08:00] Xiamen Feilu vs Jiangxi Lushan | BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e9b96464e5e5895abfdc4692b0da5bd5&txTime=6a16ab8e
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="582342" tvg-name="[08:00] Changchun Xidu vs Beijing IT | BLV CÒ" tvg-logo="https://sta.vnres.co/file/common/20260524/3940e139a7fe49993c61bc55a9d718e6.png" group-title="CHA D2",[08:00] Changchun Xidu vs Beijing IT | BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779854393-0-0-ad3b7cc2683bcd8c4b182ace699845d3
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="462413" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | SAO LA" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | SAO LA
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a9bbf943a2a7cfd332252b874bd7da30&txTime=6a15bbfa
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="603914" tvg-name="[07:30] Stallion Laguna FC vs Dynamic Herb Cebu | TRÀ ĐÁ" tvg-logo="https://sta.vnres.co/file/common/20260524/c75d113736ab140eb7920100d2088b06.png" group-title="PFL",[07:30] Stallion Laguna FC vs Dynamic Herb Cebu | TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779833323-0-0-53789f24ce31de7d0d9945c1f349ba25
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779872756-0-0-08ce50d55e7011f092624c143f8d077b
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="548860" tvg-name="[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | VƯƠNG ANH" tvg-logo="https://sta.vnres.co/file/common/20260524/262b33513db8a4aaaa53d67a41ac7b6b.png" group-title="CHA D2",[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | VƯƠNG ANH
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=401ed078da563537a30942aeace48148&txTime=6a16ab89
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=eb8a2abb88045447e9e60789d8ecf21c&txTime=6a16fa44
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912108" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | TẠ BIÊN GIỚI" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | TẠ BIÊN GIỚI
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1779872756-0-0-7cde48ee9e9718d0bfb5c98332ee110e
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="603914" tvg-name="[07:30] Stallion Laguna FC vs Dynamic Herb Cebu | TRÀ ĐÁ" tvg-logo="https://sta.vnres.co/file/common/20260524/c75d113736ab140eb7920100d2088b06.png" group-title="PFL",[07:30] Stallion Laguna FC vs Dynamic Herb Cebu | TRÀ ĐÁ
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779872756-0-0-fe66d7a26296199024a67421dc4c17c2
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="501412" tvg-name="[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | XUÂN SON" tvg-logo="https://sta.vnres.co/file/common/20260524/262b33513db8a4aaaa53d67a41ac7b6b.png" group-title="CHA D2",[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | XUÂN SON
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=47470a3e377f6d5380711a678b547f1b&txTime=6a16fa44
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="462413" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | SAO LA" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | SAO LA
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=6f3f1bb06688bb0ab8cb7a9ec73918bf&txTime=6a16fa44
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912122" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | RICKHANTER" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | RICKHANTER
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e9177884813f1242cf27877636917740&txTime=6a16fa44
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912060" tvg-name="[08:00] Changchun Xidu vs Beijing IT | DECO" tvg-logo="https://sta.vnres.co/file/common/20260524/3940e139a7fe49993c61bc55a9d718e6.png" group-title="CHA D2",[08:00] Changchun Xidu vs Beijing IT | DECO
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779872756-0-0-b5fbfe54b37a293cb3fe7c3916a882f5
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912008" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV TOMIA" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV TOMIA
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779872756-0-0-8887f974f2fba213087f24f3763b73aa
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912041" tvg-name="[08:00] Xiamen Feilu vs Jiangxi Lushan | BLV TAP" tvg-logo="https://sta.vnres.co/file/common/20260524/965b508d42c845c00ad5996bffdf1a1e.png" group-title="CHA D2",[08:00] Xiamen Feilu vs Jiangxi Lushan | BLV TAP
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=ccf35d77f67f3eee21a38a5a60c1403f&txTime=6a16fa44
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="595335" tvg-name="[08:00] Xiamen Feilu vs Jiangxi Lushan | NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260524/965b508d42c845c00ad5996bffdf1a1e.png" group-title="CHA D2",[08:00] Xiamen Feilu vs Jiangxi Lushan | NGƯỜI CÁ
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779872756-0-0-c09aa099e4c78d991d3dcf9def195704
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="273736" tvg-name="[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | CHÍ PHÈO" tvg-logo="https://sta.vnres.co/file/common/20260524/262b33513db8a4aaaa53d67a41ac7b6b.png" group-title="CHA D2",[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | CHÍ PHÈO
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1779872756-0-0-06131e953150e207cf12a218fea2b787
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="327159" tvg-name="[08:00] Changchun Xidu vs Beijing IT | BLV COCA" tvg-logo="https://sta.vnres.co/file/common/20260524/3940e139a7fe49993c61bc55a9d718e6.png" group-title="CHA D2",[08:00] Changchun Xidu vs Beijing IT | BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779852655-0-0-9942daccdb10157b3be25962c632e2ba
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912015" tvg-name="[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | BLV PEWPEW" tvg-logo="https://sta.vnres.co/file/common/20260524/262b33513db8a4aaaa53d67a41ac7b6b.png" group-title="CHA D2",[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | BLV PEWPEW
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779831156-0-0-fbef6e97656b1d899be49e9907ed3560
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779872756-0-0-4589f9dbd804c346e04c17ee9a2ef76a
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="603255" tvg-name="[08:00] Xiamen Feilu vs Jiangxi Lushan | BLV LION" tvg-logo="https://sta.vnres.co/file/common/20260524/965b508d42c845c00ad5996bffdf1a1e.png" group-title="CHA D2",[08:00] Xiamen Feilu vs Jiangxi Lushan | BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779803549-0-0-9d0cfbf187803e3473227c680a13864e
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779872756-0-0-ce6beab9bcf34d808d4420af84a50360
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="582342" tvg-name="[08:00] Changchun Xidu vs Beijing IT | BLV CÒ" tvg-logo="https://sta.vnres.co/file/common/20260524/3940e139a7fe49993c61bc55a9d718e6.png" group-title="CHA D2",[08:00] Changchun Xidu vs Beijing IT | BLV CÒ
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779872756-0-0-97e692e631baf3ab143a4e40c5f372c1
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="494201" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV MESSI" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV MESSI
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779872756-0-0-b079edffaefa48e5d9528360b784ff62
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="531989" tvg-name="[08:00] Xiamen Feilu vs Jiangxi Lushan | BLV COZY" tvg-logo="https://sta.vnres.co/file/common/20260524/965b508d42c845c00ad5996bffdf1a1e.png" group-title="CHA D2",[08:00] Xiamen Feilu vs Jiangxi Lushan | BLV COZY
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779872756-0-0-0cf8d1a5e3e2b7b4962b9ebc4ab3daca
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912009" tvg-name="[08:00] Changchun Xidu vs Beijing IT | TYPN" tvg-logo="https://sta.vnres.co/file/common/20260524/3940e139a7fe49993c61bc55a9d718e6.png" group-title="CHA D2",[08:00] Changchun Xidu vs Beijing IT | TYPN
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=765da1d4738e65705725045462be1089&txTime=6a16fa44
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912015" tvg-name="[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | BLV PEWPEW" tvg-logo="https://sta.vnres.co/file/common/20260524/262b33513db8a4aaaa53d67a41ac7b6b.png" group-title="CHA D2",[07:00] Shanxi Chongde Ronghai vs Qingdao Red Lions | BLV PEWPEW
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779872756-0-0-2e63c1dd755a6551b96802247b3fd142
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="414317" tvg-name="[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV TOMMY" tvg-logo="https://sta.vnres.co/file/common/20260524/bae2e9e14ee779b7b4bf6254ef8eb3b3.png" group-title="CHA D2",[07:00] Dalian Yingbo B vs Shandong Taishan B | BLV TOMMY
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779872756-0-0-4e426f39e58704a089646037a4a261ee
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="9912106" tvg-name="[08:00] Iloilo United Royals vs Paranaque Patriots | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260525/e012380dee985c47ecc1c52cfffd4ea9.jpg" group-title="MPBL",[08:00] Iloilo United Royals vs Paranaque Patriots | BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779855870-0-0-b865885d28939e26646a591732cc2606
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779872756-0-0-91062785884262ea4b6580636a0dae9a
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="9912099" tvg-name="[08:00] Iloilo United Royals vs Paranaque Patriots | KING" tvg-logo="https://sta.vnres.co/file/common/20260525/e012380dee985c47ecc1c52cfffd4ea9.jpg" group-title="MPBL",[08:00] Iloilo United Royals vs Paranaque Patriots | KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779856332-0-0-0881f4fd73f707bc967cd783851827aa
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779872756-0-0-1d7df7acb11a3d06860373830a442c39
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912115" tvg-name="[10:00] Sarangani Marlins vs Binan Tatak Gel | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260525/260511801eb20fe7bf5efc8043b1e381.png" group-title="MPBL",[10:00] Sarangani Marlins vs Binan Tatak Gel | CHAN SENA
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779855560-0-0-ebdc2c3acd376ff7895a8d6f23311f48
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -122,48 +127,23 @@ https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=83353a6c62532ce456e
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="532081" tvg-name="[10:00] Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260524/103bb0e8e81ca7577a6505ef8c602788.png" group-title="KOR WD1",[10:00] Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC | BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779807251-0-0-607e2ee4f43d3d715a64bf51dc30b039
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="387694" tvg-name="[11:00] Altay FK vs FC Astana | CR Bưởi" tvg-logo="https://sta.vnres.co/file/common/20260524/5e1107d54246b805014bd98324218788.png" group-title="KAZ PR",[11:00] Altay FK vs FC Astana | CR Bưởi
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779852493-0-0-24a1c4228a044fcb483c7f9d340b805f
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="534219" tvg-name="[10:00] Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC | BLV 7UP" tvg-logo="https://sta.vnres.co/file/common/20260524/103bb0e8e81ca7577a6505ef8c602788.png" group-title="KOR WD1",[10:00] Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC | BLV 7UP
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779852526-0-0-d00f81d3da8e90549d5be207b613a144
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912115" tvg-name="[10:00] Sarangani Marlins vs Binan Tatak Gel | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260525/260511801eb20fe7bf5efc8043b1e381.png" group-title="MPBL",[10:00] Sarangani Marlins vs Binan Tatak Gel | CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779855560-0-0-ebdc2c3acd376ff7895a8d6f23311f48
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912112" tvg-name="[10:00] Sarangani Marlins vs Binan Tatak Gel | BLV HENRY" tvg-logo="https://sta.vnres.co/file/common/20260525/260511801eb20fe7bf5efc8043b1e381.png" group-title="MPBL",[10:00] Sarangani Marlins vs Binan Tatak Gel | BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779855621-0-0-76e5b6c08470312e351aecd57fae4964
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="283501" tvg-name="[10:15] Aguilas-UMak FC vs One Taguig | BLV KAN" tvg-logo="https://sta.vnres.co/file/common/20260524/5594cd6ca1a6f26aa408c04e5da19276.png" group-title="PFL",[10:15] Aguilas-UMak FC vs One Taguig | BLV KAN
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=119ebd44c41b447de5dd9fbc131a2e67&txTime=6a15f523
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="484845" tvg-name="[11:00] Altay FK vs FC Astana | A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260524/5e1107d54246b805014bd98324218788.png" group-title="KAZ PR",[11:00] Altay FK vs FC Astana | A BỆU
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779831150-0-0-f75e634dc0a38f15bea0034bd4a302c6
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="472241" tvg-name="[11:00] Tobol Kostanai B vs FK Taraz | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260524/c29a85c77e403d2c9b851b878f282737.png" group-title="KAZ D1",[11:00] Tobol Kostanai B vs FK Taraz | BLV XO
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779832001-0-0-80ea1b378b834427c7a0c8f51cef7000
+#EXTINF:-1 tvg-id="532081" tvg-name="[10:00] Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260524/103bb0e8e81ca7577a6505ef8c602788.png" group-title="KOR WD1",[10:00] Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC | BLV ALEX
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779807251-0-0-607e2ee4f43d3d715a64bf51dc30b039
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="256080" tvg-name="[11:00] Altay FK vs FC Astana | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260524/5e1107d54246b805014bd98324218788.png" group-title="KAZ PR",[11:00] Altay FK vs FC Astana | BLV CUỘI
 https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779852620-0-0-bab8cec8b1a05b9e59acc405f87228a9
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="534219" tvg-name="[10:00] Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC | BLV 7UP" tvg-logo="https://sta.vnres.co/file/common/20260524/103bb0e8e81ca7577a6505ef8c602788.png" group-title="KOR WD1",[10:00] Seoul Amazones Women vs Incheon Hyundai Steel Red Angels WFC | BLV 7UP
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779852526-0-0-d00f81d3da8e90549d5be207b613a144
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -177,13 +157,23 @@ https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779832233-0-0-5338
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="484845" tvg-name="[11:00] Altay FK vs FC Astana | A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260524/5e1107d54246b805014bd98324218788.png" group-title="KAZ PR",[11:00] Altay FK vs FC Astana | A BỆU
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779831150-0-0-f75e634dc0a38f15bea0034bd4a302c6
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="552832" tvg-name="[11:30] Haimen Codion vs Shanghai Second | LOGAN" tvg-logo="https://sta.vnres.co/file/common/20260524/122b3656d6258b829f206882c7362f66.png" group-title="CHA D2",[11:30] Haimen Codion vs Shanghai Second | LOGAN
 https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779852954-0-0-9e8480c40da06c7a6a3eba4a40b0ee0c
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="400722" tvg-name="[11:30] Wuhan Three Towns B vs Guangdong Mingtu | BLV VITAMIN" tvg-logo="https://sta.vnres.co/file/common/20260524/28ef770c426d80f6ac3a31e15a13a222.png" group-title="CHA D2",[11:30] Wuhan Three Towns B vs Guangdong Mingtu | BLV VITAMIN
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779832117-0-0-3f86fc4ff3684a0439a9f092c8e0e421
+#EXTINF:-1 tvg-id="472241" tvg-name="[11:00] Tobol Kostanai B vs FK Taraz | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260524/c29a85c77e403d2c9b851b878f282737.png" group-title="KAZ D1",[11:00] Tobol Kostanai B vs FK Taraz | BLV XO
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779832001-0-0-80ea1b378b834427c7a0c8f51cef7000
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="387694" tvg-name="[11:00] Altay FK vs FC Astana | CR Bưởi" tvg-logo="https://sta.vnres.co/file/common/20260524/5e1107d54246b805014bd98324218788.png" group-title="KAZ PR",[11:00] Altay FK vs FC Astana | CR Bưởi
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1779852493-0-0-24a1c4228a044fcb483c7f9d340b805f
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -192,8 +182,18 @@ https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779843487-0-0-c099
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912112" tvg-name="[10:00] Sarangani Marlins vs Binan Tatak Gel | BLV HENRY" tvg-logo="https://sta.vnres.co/file/common/20260525/260511801eb20fe7bf5efc8043b1e381.png" group-title="MPBL",[10:00] Sarangani Marlins vs Binan Tatak Gel | BLV HENRY
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779855621-0-0-76e5b6c08470312e351aecd57fae4964
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="406865" tvg-name="[12:00] Volna Kovernino vs Rotor Volgograd-2 | BLV ANH TÀI" tvg-logo="https://sta.vnres.co/file/common/20260524/ab5ef8c83b90f245e4e81e78dd6491b2.png" group-title="RUS D3",[12:00] Volna Kovernino vs Rotor Volgograd-2 | BLV ANH TÀI
 https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779838473-0-0-0b45ddd6bf43ca13ac6bf67bd26fb28b
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="400722" tvg-name="[11:30] Wuhan Three Towns B vs Guangdong Mingtu | BLV VITAMIN" tvg-logo="https://sta.vnres.co/file/common/20260524/28ef770c426d80f6ac3a31e15a13a222.png" group-title="CHA D2",[11:30] Wuhan Three Towns B vs Guangdong Mingtu | BLV VITAMIN
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779832117-0-0-3f86fc4ff3684a0439a9f092c8e0e421
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -202,33 +202,8 @@ https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779827878-0-0-930d
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="589848" tvg-name="[12:00] Dinamo-2 Minsk vs FC Gomel B | LOKA" tvg-logo="https://sta.vnres.co/file/common/20260524/f45d56e32945f400128e9b58c9fc018f.png" group-title="BLR D1",[12:00] Dinamo-2 Minsk vs FC Gomel B | LOKA
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779832199-0-0-a82324ed7c63f7803169f8658a5e3bd0
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="597929" tvg-name="[12:00] Jaiyq vs FK Aktobe II | BLV CÁO" tvg-logo="https://sta.vnres.co/file/common/20260524/70b07cbe9b871c64b4b3c7d0e9691ec4.png" group-title="KAZ D1",[12:00] Jaiyq vs FK Aktobe II | BLV CÁO
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779825511-0-0-ec5e3b9c0b3c8e2e79ee898c9b534ace
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="560690" tvg-name="[12:00] Thimphu Raven FC vs BFF Academy U19 | KÉP" tvg-logo="https://sta.vnres.co/file/common/20260524/e82105e96fabc0f3e6177200d7acf627.png" group-title="BTN PL",[12:00] Thimphu Raven FC vs BFF Academy U19 | KÉP
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779833566-0-0-35ada11ee1209ac616e754fb198dfc5b
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="380460" tvg-name="[12:00] Jaiyq vs FK Aktobe II | BLV ENZO" tvg-logo="https://sta.vnres.co/file/common/20260524/70b07cbe9b871c64b4b3c7d0e9691ec4.png" group-title="KAZ D1",[12:00] Jaiyq vs FK Aktobe II | BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779852780-0-0-56d46c4984403c2105bed93e759a0292
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="459401" tvg-name="[13:00] Irtysh Pavlodar vs Ulytau Zhezkazgan | BLV BÉO" tvg-logo="https://sta.vnres.co/file/common/20260524/66430778869c5a9cc6dfe5c300edc232.png" group-title="KAZ PR",[13:00] Irtysh Pavlodar vs Ulytau Zhezkazgan | BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=45cfe335edf355720f97bbb7fea76fd2&txTime=6a16580a
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="607400" tvg-name="[13:00] Irtysh Pavlodar vs Ulytau Zhezkazgan | HÀ DUY KIÊN" tvg-logo="https://sta.vnres.co/file/common/20260524/66430778869c5a9cc6dfe5c300edc232.png" group-title="KAZ PR",[13:00] Irtysh Pavlodar vs Ulytau Zhezkazgan | HÀ DUY KIÊN
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779852761-0-0-b74b4a8660cc66ad378446a90e1cf492
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -237,13 +212,33 @@ https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779852579-0-0-33d
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="589848" tvg-name="[12:00] Dinamo-2 Minsk vs FC Gomel B | LOKA" tvg-logo="https://sta.vnres.co/file/common/20260524/f45d56e32945f400128e9b58c9fc018f.png" group-title="BLR D1",[12:00] Dinamo-2 Minsk vs FC Gomel B | LOKA
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779832199-0-0-a82324ed7c63f7803169f8658a5e3bd0
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="459401" tvg-name="[13:00] Irtysh Pavlodar vs Ulytau Zhezkazgan | BLV BÉO" tvg-logo="https://sta.vnres.co/file/common/20260524/66430778869c5a9cc6dfe5c300edc232.png" group-title="KAZ PR",[13:00] Irtysh Pavlodar vs Ulytau Zhezkazgan | BLV BÉO
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=45cfe335edf355720f97bbb7fea76fd2&txTime=6a16580a
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="380460" tvg-name="[12:00] Jaiyq vs FK Aktobe II | BLV ENZO" tvg-logo="https://sta.vnres.co/file/common/20260524/70b07cbe9b871c64b4b3c7d0e9691ec4.png" group-title="KAZ D1",[12:00] Jaiyq vs FK Aktobe II | BLV ENZO
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779852780-0-0-56d46c4984403c2105bed93e759a0292
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="560690" tvg-name="[12:00] Thimphu Raven FC vs BFF Academy U19 | KÉP" tvg-logo="https://sta.vnres.co/file/common/20260524/e82105e96fabc0f3e6177200d7acf627.png" group-title="BTN PL",[12:00] Thimphu Raven FC vs BFF Academy U19 | KÉP
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779833566-0-0-35ada11ee1209ac616e754fb198dfc5b
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="595715" tvg-name="[13:00] Kaya FC-Iloilo vs Manila Digger FC | PINKMAN" tvg-logo="https://sta.vnres.co/file/common/20260524/32de1eeb83a3610610c2a1b238d0127e.png" group-title="PFL",[13:00] Kaya FC-Iloilo vs Manila Digger FC | PINKMAN
 https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=1cf016f337336b2c8673f96dfb3c2f90&txTime=6a1674e4
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912102" tvg-name="[14:00] Pakhtakor vs FC Kattaqorgon | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260524/428270ab82477cd5de81445ee166083d.png" group-title="UZB Cup",[14:00] Pakhtakor vs FC Kattaqorgon | BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=868eee73323bff8dfa757f4d60ddbe5e&txTime=6a16b7b3
+#EXTINF:-1 tvg-id="321443" tvg-name="[14:00] Yaypan FK vs Termez Surkhon | BLV SATIVA" tvg-logo="https://sta.vnres.co/file/common/20260524/2e78db57f5633c6c5dca48acf0775455.png" group-title="UZB Cup",[14:00] Yaypan FK vs Termez Surkhon | BLV SATIVA
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779843809-0-0-c99ef923d99d15a4247d8732291a3bf9
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -257,18 +252,18 @@ https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779833399-0-0-d3a4
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="607400" tvg-name="[13:00] Irtysh Pavlodar vs Ulytau Zhezkazgan | HÀ DUY KIÊN" tvg-logo="https://sta.vnres.co/file/common/20260524/66430778869c5a9cc6dfe5c300edc232.png" group-title="KAZ PR",[13:00] Irtysh Pavlodar vs Ulytau Zhezkazgan | HÀ DUY KIÊN
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779852761-0-0-b74b4a8660cc66ad378446a90e1cf492
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="534055" tvg-name="[15:00] Ararat-Armenia FC vs Gandzasar Kapan | BLV RAMBO" tvg-logo="https://sta.vnres.co/file/common/20260524/7b429e2c89e30836a6cf73fd52259e07.png" group-title="ARM D1",[15:00] Ararat-Armenia FC vs Gandzasar Kapan | BLV RAMBO
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=519ac6279566abe88c4ac3a147ab6ee4&txTime=6a16611c
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="321443" tvg-name="[14:00] Yaypan FK vs Termez Surkhon | BLV SATIVA" tvg-logo="https://sta.vnres.co/file/common/20260524/2e78db57f5633c6c5dca48acf0775455.png" group-title="UZB Cup",[14:00] Yaypan FK vs Termez Surkhon | BLV SATIVA
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779843809-0-0-c99ef923d99d15a4247d8732291a3bf9
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="598119" tvg-name="[15:00] FC Pyunik vs FK Van Charentsavan | BLV A TINH" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[15:00] FC Pyunik vs FK Van Charentsavan | BLV A TINH
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=a1b99fd6a2bb633e0a599afa0611a0c6&txTime=6a1660c2
+#EXTINF:-1 tvg-id="9912102" tvg-name="[14:00] Pakhtakor vs FC Kattaqorgon | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260524/428270ab82477cd5de81445ee166083d.png" group-title="UZB Cup",[14:00] Pakhtakor vs FC Kattaqorgon | BLV RÔSI
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=12facbbcd2d8097442c6a8a8436b6fe2&txTime=6a16d95a
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -277,13 +272,18 @@ https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779828334-0-0-1533
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="611377" tvg-name="[15:00] FC Pyunik vs FK Van Charentsavan | TƯ MÃ Ý" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[15:00] FC Pyunik vs FK Van Charentsavan | TƯ MÃ Ý
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779833441-0-0-1502e6c8af5a6433e0338680f883e1be
+#EXTINF:-1 tvg-id="598119" tvg-name="[15:00] FC Pyunik vs FK Van Charentsavan | BLV A TINH" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[15:00] FC Pyunik vs FK Van Charentsavan | BLV A TINH
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=a1b99fd6a2bb633e0a599afa0611a0c6&txTime=6a1660c2
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="9912114" tvg-name="[15:00] Urartu vs FC Noah | BLV VOI" tvg-logo="https://sta.vnres.co/file/common/20260524/916d5dd94b074b0711e7f152f5e07650.png" group-title="ARM D1",[15:00] Urartu vs FC Noah | BLV VOI
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779838229-0-0-526d7c2c7349772b72bc06cc23cc5d3a
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="611377" tvg-name="[15:00] FC Pyunik vs FK Van Charentsavan | TƯ MÃ Ý" tvg-logo="https://sta.vnres.co/file/common/20260524/0c7701a1c0703dd8d9e986ad9ec11f02.png" group-title="ARM D1",[15:00] FC Pyunik vs FK Van Charentsavan | TƯ MÃ Ý
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779833441-0-0-1502e6c8af5a6433e0338680f883e1be
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
