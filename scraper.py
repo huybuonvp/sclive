@@ -7,7 +7,7 @@ from typing import List, Optional
 from dataclasses import dataclass, asdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from curl_cffi import requests
-
+from zoneinfo import ZoneInfo
 
 # =========================================================
 # DATA CLASS
@@ -27,7 +27,6 @@ class StreamInfo:
     hd_flv: Optional[str] = None
     m3u8: Optional[str] = None
     hd_m3u8: Optional[str] = None
-
 
 # =========================================================
 # SCRAPER
@@ -81,32 +80,44 @@ class SocoliveScraper:
         if room_id not in self.room_cache:
             self.room_cache[room_id] = self._fetch_jsonp(f"{self.BASE_URL}{self.ROOM_ENDPOINT.format(room_id=room_id)}").get("data", {})
         return self.room_cache[room_id]
-
+   
     def get_all_streams(self, date: Optional[datetime] = None) -> List[StreamInfo]:
         matches, jobs, seen_rooms = self.get_matches(date), [], set()
         print(f"[INFO] MATCHES: {len(matches)}")
-
+    
         for match in matches:
-            host, guest = match.get("hostName", "Unknown Home"), match.get("guestName", "Unknown Away")
+            host = match.get("hostName", "Unknown Home")
+            guest = match.get("guestName", "Unknown Away")
             match_name = f"{host} vs {guest}"
             category = match.get("subCateName") or match.get("categoryName") or "Unknown"
+    
             kickoff = "N/A"
             ts = match.get("matchTime") or match.get("startTime")
             if ts:
-                try: kickoff = datetime.fromtimestamp(int(ts)/1000).strftime("%H:%M")
-                except: pass
-
+                try:
+                    kickoff = datetime.fromtimestamp(
+                        int(ts) / 1000, tz=ZoneInfo("Asia/Ho_Chi_Minh")
+                    ).strftime("%H:%M")
+                except Exception as e:
+                    print(f"[TIME ERROR] {e}")
+    
             for anchor in match.get("anchors", []):
                 room_id = anchor.get("anchor", {}).get("roomNum") or str(anchor.get("uid", ""))
-                if not room_id or room_id in seen_rooms: continue
+                if not room_id or room_id in seen_rooms:
+                    continue
                 seen_rooms.add(room_id)
                 jobs.append({
-                    "room_id": room_id, "streamer": anchor.get("nickName", "Unknown"),
-                    "host_name": host, "guest_name": guest, "match_name": match_name,
-                    "category": category, "kickoff": kickoff,
-                    "host_logo": match.get("hostIcon", ""), "guest_logo": match.get("guestIcon", "")
+                    "room_id": room_id,
+                    "streamer": anchor.get("nickName", "Unknown"),
+                    "host_name": host,
+                    "guest_name": guest,
+                    "match_name": match_name,
+                    "category": category,
+                    "kickoff": kickoff,
+                    "host_logo": match.get("hostIcon", ""),
+                    "guest_logo": match.get("guestIcon", "")
                 })
-
+    
         print(f"[INFO] ROOMS: {len(jobs)}")
         streams = []
         with ThreadPoolExecutor(max_workers=20) as executor:
@@ -117,10 +128,15 @@ class SocoliveScraper:
                     detail = future.result()
                     stream_data = detail.get("stream", {})
                     stream = StreamInfo(
-                        room_id=job["room_id"], streamer=job["streamer"],
-                        host_name=job["host_name"], guest_name=job["guest_name"],
-                        match_name=job["match_name"], category=job["category"],
-                        kickoff=job["kickoff"], host_logo=job["host_logo"], guest_logo=job["guest_logo"],
+                        room_id=job["room_id"],
+                        streamer=job["streamer"],
+                        host_name=job["host_name"],
+                        guest_name=job["guest_name"],
+                        match_name=job["match_name"],
+                        category=job["category"],
+                        kickoff=job["kickoff"],
+                        host_logo=job["host_logo"],
+                        guest_logo=job["guest_logo"],
                         flv=self.clean_url(stream_data.get("flv")),
                         hd_flv=self.clean_url(stream_data.get("hdFlv")),
                         m3u8=self.clean_url(stream_data.get("m3u8")),
@@ -128,10 +144,11 @@ class SocoliveScraper:
                     )
                     if stream.hd_m3u8 or stream.m3u8 or stream.hd_flv or stream.flv:
                         streams.append(stream)
-                        print(f"[+] {stream.room_id} | {stream.match_name}")
+                        print(f"[+] {stream.room_id} | {stream.match_name} | {stream.kickoff}")
                 except Exception as e:
                     print(f"[-] {job['room_id']} -> {e}")
         return streams
+
 
 
 # =========================================================
