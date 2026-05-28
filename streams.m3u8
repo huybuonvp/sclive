@@ -2,78 +2,13 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912122" tvg-name="[17:00] Okzhetpes vs FK Aktobe Lento | RICKHANTER" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png" group-title="KAZ PR",[17:00] Okzhetpes vs FK Aktobe Lento | RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=2626d201e2501d67170275b548f5efa0&txTime=6a17b4a1
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="606448" tvg-name="[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | BLV THÓC" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png" group-title="KAZ PR",[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | BLV THÓC
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779929841-0-0-0e12319c0edea806a719bcb9097df09f
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912041" tvg-name="[17:00] Okzhetpes vs FK Aktobe Lento | BLV TAP" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png" group-title="KAZ PR",[17:00] Okzhetpes vs FK Aktobe Lento | BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a548fdf1dcdbe8bc49bae3499ab0eb43&txTime=6a17fde7
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="602019" tvg-name="[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | BLV RYO" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png" group-title="KAZ PR",[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | BLV RYO
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779904272-0-0-725bea5744a4532fb239dced7dcc9e78
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="598549" tvg-name="[18:00] Sri Lanka Women vs Bhutan Women | CHANH MUỐI" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png" group-title="WSAFF",[18:00] Sri Lanka Women vs Bhutan Women | CHANH MUỐI
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779908067-0-0-9726bf58d85cab56f58e6dc4bb5ce36f
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912091" tvg-name="[17:00] Okzhetpes vs FK Aktobe Lento | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png" group-title="KAZ PR",[17:00] Okzhetpes vs FK Aktobe Lento | BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779939060-0-0-80d56d14505fdd8b1fe30a5b7614815a
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="9912115" tvg-name="[15:00] Zamboanga Sikat vs Pasig City | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260526/a3ae85d5b1ed3d571ccde0904992ef42.png" group-title="MPBL",[15:00] Zamboanga Sikat vs Pasig City | CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779945410-0-0-acaf77af5b5cd9435bc275d5f619fc59
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779961376-0-0-135065becee92407721658d4bbb41483
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="9912112" tvg-name="[15:00] Zamboanga Sikat vs Pasig City | BLV HENRY" tvg-logo="https://sta.vnres.co/file/common/20260526/a3ae85d5b1ed3d571ccde0904992ef42.png" group-title="MPBL",[15:00] Zamboanga Sikat vs Pasig City | BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779942349-0-0-64bb32d216603df8272d3c29acb21b45
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="472241" tvg-name="[18:30] Belgium U17 vs Spain U17 | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png" group-title="UEFA U17",[18:30] Belgium U17 vs Spain U17 | BLV XO
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779902319-0-0-dfd144a6efee7d015d44d49f72e5f4ff
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912060" tvg-name="[17:00] Okzhetpes vs FK Aktobe Lento | DECO" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png" group-title="KAZ PR",[17:00] Okzhetpes vs FK Aktobe Lento | DECO
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779920252-0-0-e4354cd1f45f00672198e81b3efe1c24
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912106" tvg-name="[15:00] Zamboanga Sikat vs Pasig City | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260526/a3ae85d5b1ed3d571ccde0904992ef42.png" group-title="MPBL",[15:00] Zamboanga Sikat vs Pasig City | BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779945458-0-0-5a06eab593c7ff8279f88aabcd710456
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="605412" tvg-name="[18:30] Belgium U17 vs Spain U17 | MONEY MAN" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png" group-title="UEFA U17",[18:30] Belgium U17 vs Spain U17 | MONEY MAN
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779853077-0-0-c48bbcdb25348c4691668688df5c2372
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="256080" tvg-name="[17:00] Okzhetpes vs FK Aktobe Lento | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png" group-title="KAZ PR",[17:00] Okzhetpes vs FK Aktobe Lento | BLV CUỘI
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779939823-0-0-74c166dfca77aa1e0bd6dd359836a361
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912099" tvg-name="[17:00] Ilagan Isabela Cowboys vs Quezon Huskers | KING" tvg-logo="https://sta.vnres.co/file/common/20260526/942c8cd2b5edcb6d1a619f6954b3266a.png" group-title="MPBL",[17:00] Ilagan Isabela Cowboys vs Quezon Huskers | KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779945690-0-0-26e1b1b38f7ddcb0b91bce9de8357243
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912114" tvg-name="[18:00] Sri Lanka Women vs Bhutan Women | BLV VOI" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png" group-title="WSAFF",[18:00] Sri Lanka Women vs Bhutan Women | BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779912293-0-0-799ee2065875a6d65b78d501aa2257cc
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779961376-0-0-8ba63601fdfb0383e97d79744c12e27e
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -82,18 +17,63 @@ https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7c23b002e154e6245500
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="534219" tvg-name="[17:00] Paro FC vs Transport United FC | BLV 7UP" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png" group-title="BTN PL",[17:00] Paro FC vs Transport United FC | BLV 7UP
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779919385-0-0-f7e568101b853a4801a251a6baf824a3
+#EXTINF:-1 tvg-id="9912041" tvg-name="[17:00] Okzhetpes vs FK Aktobe Lento | BLV TAP" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png" group-title="KAZ PR",[17:00] Okzhetpes vs FK Aktobe Lento | BLV TAP
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a548fdf1dcdbe8bc49bae3499ab0eb43&txTime=6a17fde7
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912122" tvg-name="[17:00] Okzhetpes vs FK Aktobe Lento | RICKHANTER" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png" group-title="KAZ PR",[17:00] Okzhetpes vs FK Aktobe Lento | RICKHANTER
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=2626d201e2501d67170275b548f5efa0&txTime=6a17b4a1
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="611377" tvg-name="[17:00] Paro FC vs Transport United FC | TƯ MÃ Ý" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png" group-title="BTN PL",[17:00] Paro FC vs Transport United FC | TƯ MÃ Ý
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779904512-0-0-5118d6a34a4b4b36ffda6b9e69d68dac
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1779961376-0-0-839baea41b552a4baf908e221b0aa5ad
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="595715" tvg-name="[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | PINKMAN" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png" group-title="KAZ PR",[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | PINKMAN
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=73741d0cf1aec8ccac216e70231e9c7a&txTime=6a1784dd
+#EXTINF:-1 tvg-id="9912060" tvg-name="[17:00] Okzhetpes vs FK Aktobe Lento | DECO" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png" group-title="KAZ PR",[17:00] Okzhetpes vs FK Aktobe Lento | DECO
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779920252-0-0-e4354cd1f45f00672198e81b3efe1c24
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="605412" tvg-name="[18:30] Belgium U17 vs Spain U17 | MONEY MAN" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png" group-title="UEFA U17",[18:30] Belgium U17 vs Spain U17 | MONEY MAN
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779853077-0-0-c48bbcdb25348c4691668688df5c2372
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="472241" tvg-name="[18:30] Belgium U17 vs Spain U17 | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png" group-title="UEFA U17",[18:30] Belgium U17 vs Spain U17 | BLV XO
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779902319-0-0-dfd144a6efee7d015d44d49f72e5f4ff
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912114" tvg-name="[18:00] Sri Lanka Women vs Bhutan Women | BLV VOI" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png" group-title="WSAFF",[18:00] Sri Lanka Women vs Bhutan Women | BLV VOI
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779912293-0-0-799ee2065875a6d65b78d501aa2257cc
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="606448" tvg-name="[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | BLV THÓC" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png" group-title="KAZ PR",[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | BLV THÓC
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779929841-0-0-0e12319c0edea806a719bcb9097df09f
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912091" tvg-name="[17:00] Okzhetpes vs FK Aktobe Lento | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png" group-title="KAZ PR",[17:00] Okzhetpes vs FK Aktobe Lento | BLV Củ Cải
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779939060-0-0-80d56d14505fdd8b1fe30a5b7614815a
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="598549" tvg-name="[18:00] Sri Lanka Women vs Bhutan Women | CHANH MUỐI" tvg-logo="https://sta.vnres.co/file/common/20260524/493ba72d7a6a1b1712e01e0edb533c63.png" group-title="WSAFF",[18:00] Sri Lanka Women vs Bhutan Women | CHANH MUỐI
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779908067-0-0-9726bf58d85cab56f58e6dc4bb5ce36f
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="256080" tvg-name="[17:00] Okzhetpes vs FK Aktobe Lento | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260524/3bb2cf1ac9e6c85213542b0740d9dc2c.png" group-title="KAZ PR",[17:00] Okzhetpes vs FK Aktobe Lento | BLV CUỘI
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1779939823-0-0-74c166dfca77aa1e0bd6dd359836a361
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="602019" tvg-name="[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | BLV RYO" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png" group-title="KAZ PR",[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | BLV RYO
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779904272-0-0-725bea5744a4532fb239dced7dcc9e78
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -102,18 +82,28 @@ https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779892058-0-0-3128
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="534219" tvg-name="[17:00] Paro FC vs Transport United FC | BLV 7UP" tvg-logo="https://sta.vnres.co/file/common/20260524/266ea6ddf058c772efb8d2c64e80c734.png" group-title="BTN PL",[17:00] Paro FC vs Transport United FC | BLV 7UP
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779919385-0-0-f7e568101b853a4801a251a6baf824a3
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912099" tvg-name="[17:00] Ilagan Isabela Cowboys vs Quezon Huskers | KING" tvg-logo="https://sta.vnres.co/file/common/20260526/942c8cd2b5edcb6d1a619f6954b3266a.png" group-title="MPBL",[17:00] Ilagan Isabela Cowboys vs Quezon Huskers | KING
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779945690-0-0-26e1b1b38f7ddcb0b91bce9de8357243
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912106" tvg-name="[15:00] Zamboanga Sikat vs Pasig City | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260526/a3ae85d5b1ed3d571ccde0904992ef42.png" group-title="MPBL",[15:00] Zamboanga Sikat vs Pasig City | BRIAN
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779961376-0-0-7b96dc0834357cac3938a7b535f70687
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="595715" tvg-name="[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | PINKMAN" tvg-logo="https://sta.vnres.co/file/common/20260524/446911ea5fec4a2439797372a9069ff7.png" group-title="KAZ PR",[18:00] Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan | PINKMAN
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=73741d0cf1aec8ccac216e70231e9c7a&txTime=6a1784dd
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="548860" tvg-name="[18:30] Belgium U17 vs Spain U17 | VƯƠNG ANH" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png" group-title="UEFA U17",[18:30] Belgium U17 vs Spain U17 | VƯƠNG ANH
 https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=f6292d6801c5f99c52bf0e1dd3b1426e&txTime=6a173e26
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="290928" tvg-name="[18:30] Belgium U17 vs Spain U17 | BLV MIXI" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png" group-title="UEFA U17",[18:30] Belgium U17 vs Spain U17 | BLV MIXI
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779843703-0-0-83bab486105b59acc639f8e56cd3e117
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="527384" tvg-name="[18:30] Belgium U17 vs Spain U17 | LÃO LÂM" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png" group-title="UEFA U17",[18:30] Belgium U17 vs Spain U17 | LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779897755-0-0-736f14f78d5d8dca1bc81cd92cd221ff
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -122,8 +112,8 @@ https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779938816-0-0-2203
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="532081" tvg-name="[20:00] KS Perparimi Kukesi vs Butrinti Sarande | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260524/7b99013a568eec680d0002d7f1e2ec71.png" group-title="ALB D2",[20:00] KS Perparimi Kukesi vs Butrinti Sarande | BLV ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779904201-0-0-78d9182db1ae899cd35106b2cbd109fe
+#EXTINF:-1 tvg-id="290928" tvg-name="[18:30] Belgium U17 vs Spain U17 | BLV MIXI" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png" group-title="UEFA U17",[18:30] Belgium U17 vs Spain U17 | BLV MIXI
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1779843703-0-0-83bab486105b59acc639f8e56cd3e117
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -132,8 +122,8 @@ https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779890338-0-0-ebd3
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="511367" tvg-name="[20:00] FK Atyrau vs Tobol Kostanai | BLV WUKONG" tvg-logo="https://sta.vnres.co/file/common/20260524/e95f6bcea681d622f1283e8f8787f2f8.png" group-title="KAZ PR",[20:00] FK Atyrau vs Tobol Kostanai | BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779908290-0-0-453c7e597bc17bab65675b473b6bbda2
+#EXTINF:-1 tvg-id="527384" tvg-name="[18:30] Belgium U17 vs Spain U17 | LÃO LÂM" tvg-logo="https://sta.vnres.co/file/common/20260524/a05f6fbf60ef1d78ef2db61f9e041343.png" group-title="UEFA U17",[18:30] Belgium U17 vs Spain U17 | LÃO LÂM
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779897755-0-0-736f14f78d5d8dca1bc81cd92cd221ff
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -142,28 +132,13 @@ https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779911741-0-0-c5d0
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="406865" tvg-name="[21:00] Zhenis Astana vs FK Kaspyi Aktau | BLV ANH TÀI" tvg-logo="https://sta.vnres.co/file/common/20260524/723eaff15ad01a676b0d70500be8cbb8.png" group-title="KAZ PR",[21:00] Zhenis Astana vs FK Kaspyi Aktau | BLV ANH TÀI
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779912203-0-0-9a48d689731d2643834ae4119032e868
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="582342" tvg-name="[20:00] FK Atyrau vs Tobol Kostanai | BLV CÒ" tvg-logo="https://sta.vnres.co/file/common/20260524/e95f6bcea681d622f1283e8f8787f2f8.png" group-title="KAZ PR",[20:00] FK Atyrau vs Tobol Kostanai | BLV CÒ
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779929771-0-0-d057b7c79651ac8eb736ba09948cb252
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="595335" tvg-name="[21:00] Zhenis Astana vs FK Kaspyi Aktau | NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260524/723eaff15ad01a676b0d70500be8cbb8.png" group-title="KAZ PR",[21:00] Zhenis Astana vs FK Kaspyi Aktau | NGƯỜI CÁ
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779912170-0-0-01af172f9f7ae59e65f09337ea8a9688
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="445260" tvg-name="[21:00] Zhenis Astana vs FK Kaspyi Aktau | BLV GÔN" tvg-logo="https://sta.vnres.co/file/common/20260524/723eaff15ad01a676b0d70500be8cbb8.png" group-title="KAZ PR",[21:00] Zhenis Astana vs FK Kaspyi Aktau | BLV GÔN
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=a2cc768e922a2f8f088710302b57333d&txTime=6a1674cc
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="534055" tvg-name="[21:00] Petrojet vs El Gounah | BLV RAMBO" tvg-logo="https://sta.vnres.co/file/common/20260524/db6e1b7f3f6b9fdfaecf70efaa255d8d.png" group-title="EGY D1",[21:00] Petrojet vs El Gounah | BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6eb558fcf88f0863ffee0cfe022921ed&txTime=6a1776cc
+#EXTINF:-1 tvg-id="532081" tvg-name="[20:00] KS Perparimi Kukesi vs Butrinti Sarande | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260524/7b99013a568eec680d0002d7f1e2ec71.png" group-title="ALB D2",[20:00] KS Perparimi Kukesi vs Butrinti Sarande | BLV ALEX
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779904201-0-0-78d9182db1ae899cd35106b2cbd109fe
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -172,8 +147,23 @@ https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779929975-0-0-d36f
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="235232" tvg-name="[21:00] Petrojet vs El Gounah | A PÁO" tvg-logo="https://sta.vnres.co/file/common/20260524/db6e1b7f3f6b9fdfaecf70efaa255d8d.png" group-title="EGY D1",[21:00] Petrojet vs El Gounah | A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779930068-0-0-59f380bfd2746e8e2240b6f79fd8150b
+#EXTINF:-1 tvg-id="511367" tvg-name="[20:00] FK Atyrau vs Tobol Kostanai | BLV WUKONG" tvg-logo="https://sta.vnres.co/file/common/20260524/e95f6bcea681d622f1283e8f8787f2f8.png" group-title="KAZ PR",[20:00] FK Atyrau vs Tobol Kostanai | BLV WUKONG
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779908290-0-0-453c7e597bc17bab65675b473b6bbda2
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="595335" tvg-name="[21:00] Zhenis Astana vs FK Kaspyi Aktau | NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260524/723eaff15ad01a676b0d70500be8cbb8.png" group-title="KAZ PR",[21:00] Zhenis Astana vs FK Kaspyi Aktau | NGƯỜI CÁ
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779912170-0-0-01af172f9f7ae59e65f09337ea8a9688
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="406865" tvg-name="[21:00] Zhenis Astana vs FK Kaspyi Aktau | BLV ANH TÀI" tvg-logo="https://sta.vnres.co/file/common/20260524/723eaff15ad01a676b0d70500be8cbb8.png" group-title="KAZ PR",[21:00] Zhenis Astana vs FK Kaspyi Aktau | BLV ANH TÀI
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779912203-0-0-9a48d689731d2643834ae4119032e868
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="445260" tvg-name="[21:00] Zhenis Astana vs FK Kaspyi Aktau | BLV GÔN" tvg-logo="https://sta.vnres.co/file/common/20260524/723eaff15ad01a676b0d70500be8cbb8.png" group-title="KAZ PR",[21:00] Zhenis Astana vs FK Kaspyi Aktau | BLV GÔN
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=a2cc768e922a2f8f088710302b57333d&txTime=6a1674cc
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -187,8 +177,13 @@ https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=0e89e06a4167f1bc426
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912008" tvg-name="[21:00] Petrojet vs El Gounah | BLV TOMIA" tvg-logo="https://sta.vnres.co/file/common/20260524/db6e1b7f3f6b9fdfaecf70efaa255d8d.png" group-title="EGY D1",[21:00] Petrojet vs El Gounah | BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779938872-0-0-a24106e65ce0e8d4a0492d983762fbfa
+#EXTINF:-1 tvg-id="534055" tvg-name="[21:00] Petrojet vs El Gounah | BLV RAMBO" tvg-logo="https://sta.vnres.co/file/common/20260524/db6e1b7f3f6b9fdfaecf70efaa255d8d.png" group-title="EGY D1",[21:00] Petrojet vs El Gounah | BLV RAMBO
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=6eb558fcf88f0863ffee0cfe022921ed&txTime=6a1776cc
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="235232" tvg-name="[21:00] Petrojet vs El Gounah | A PÁO" tvg-logo="https://sta.vnres.co/file/common/20260524/db6e1b7f3f6b9fdfaecf70efaa255d8d.png" group-title="EGY D1",[21:00] Petrojet vs El Gounah | A PÁO
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779930068-0-0-59f380bfd2746e8e2240b6f79fd8150b
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -202,6 +197,11 @@ https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=b275b9eea7f9ad799046
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912008" tvg-name="[21:00] Petrojet vs El Gounah | BLV TOMIA" tvg-logo="https://sta.vnres.co/file/common/20260524/db6e1b7f3f6b9fdfaecf70efaa255d8d.png" group-title="EGY D1",[21:00] Petrojet vs El Gounah | BLV TOMIA
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779938872-0-0-a24106e65ce0e8d4a0492d983762fbfa
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="599634" tvg-name="[21:00] Kaisar Kyzylorda vs FK Yelimay Semey | HẢI THANH" tvg-logo="https://sta.vnres.co/file/common/20260524/e47c0c74cb44ef6beca719d94676fe77.png" group-title="KAZ PR",[21:00] Kaisar Kyzylorda vs FK Yelimay Semey | HẢI THANH
 https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779912002-0-0-9fd691345dbfd2053041453a02e29bec
 
@@ -212,23 +212,13 @@ https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779939171-0-0-268c
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="527383" tvg-name="[21:00] Septemvri Sofia vs Yantra Gabrovo | BLV ROBBEN" tvg-logo="https://sta.vnres.co/file/common/20260526/b9a54b9aba0d09e6c632c5fc0cd6cb2c.png" group-title="BUL D1",[21:00] Septemvri Sofia vs Yantra Gabrovo | BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779939089-0-0-a74d1f7e31b570a134def0e42eebda9b
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="9912102" tvg-name="[21:00] Septemvri Sofia vs Yantra Gabrovo | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260526/b9a54b9aba0d09e6c632c5fc0cd6cb2c.png" group-title="BUL D1",[21:00] Septemvri Sofia vs Yantra Gabrovo | BLV RÔSI
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=3981fbb999326534d11ffaa6eef71e5b&txTime=6a17fd87
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="597929" tvg-name="[21:30] FK Gilan Gabala vs Mingachevir | BLV CÁO" tvg-logo="https://sta.vnres.co/file/common/20260526/450d63bcb93ab6b4377a3ef728e92649.jpg" group-title="AZE D1",[21:30] FK Gilan Gabala vs Mingachevir | BLV CÁO
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779912144-0-0-72ee9f728ecce55c9e52ceb77a4bb8b3
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912050" tvg-name="[22:00] Ordabasy vs FC Kairat Almaty | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260524/b8f9de856340fbcd5f2bfee9ac57acab.png" group-title="KAZ PR",[22:00] Ordabasy vs FC Kairat Almaty | BLV LONG
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=ecbd6d199c4344ba6637570bf31b9c93&txTime=6a17afa9
+#EXTINF:-1 tvg-id="527383" tvg-name="[21:00] Septemvri Sofia vs Yantra Gabrovo | BLV ROBBEN" tvg-logo="https://sta.vnres.co/file/common/20260526/b9a54b9aba0d09e6c632c5fc0cd6cb2c.png" group-title="BUL D1",[21:00] Septemvri Sofia vs Yantra Gabrovo | BLV ROBBEN
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779939089-0-0-a74d1f7e31b570a134def0e42eebda9b
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -237,8 +227,18 @@ https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779908217-0-0-e2cb
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="597929" tvg-name="[21:30] FK Gilan Gabala vs Mingachevir | BLV CÁO" tvg-logo="https://sta.vnres.co/file/common/20260526/450d63bcb93ab6b4377a3ef728e92649.jpg" group-title="AZE D1",[21:30] FK Gilan Gabala vs Mingachevir | BLV CÁO
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779912144-0-0-72ee9f728ecce55c9e52ceb77a4bb8b3
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="598119" tvg-name="[21:30] FK Gilan Gabala vs Mingachevir | BLV A TINH" tvg-logo="https://sta.vnres.co/file/common/20260526/450d63bcb93ab6b4377a3ef728e92649.jpg" group-title="AZE D1",[21:30] FK Gilan Gabala vs Mingachevir | BLV A TINH
 https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=433e925989967b0d75198159ecac1203&txTime=6a179432
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="491873" tvg-name="[21:30] FK Gilan Gabala vs Mingachevir | BLV VIP" tvg-logo="https://sta.vnres.co/file/common/20260526/450d63bcb93ab6b4377a3ef728e92649.jpg" group-title="AZE D1",[21:30] FK Gilan Gabala vs Mingachevir | BLV VIP
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8b349d25809285e3f35921a93a660cef&txTime=6a179461
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -252,11 +252,11 @@ https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=e74171ed0b16df99d45d
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="491873" tvg-name="[21:30] FK Gilan Gabala vs Mingachevir | BLV VIP" tvg-logo="https://sta.vnres.co/file/common/20260526/450d63bcb93ab6b4377a3ef728e92649.jpg" group-title="AZE D1",[21:30] FK Gilan Gabala vs Mingachevir | BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8b349d25809285e3f35921a93a660cef&txTime=6a179461
+#EXTINF:-1 tvg-id="304148" tvg-name="[22:00] Ordabasy vs FC Kairat Almaty | BLV LUCAS" tvg-logo="https://sta.vnres.co/file/common/20260524/b8f9de856340fbcd5f2bfee9ac57acab.png" group-title="KAZ PR",[22:00] Ordabasy vs FC Kairat Almaty | BLV LUCAS
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779939027-0-0-790f8a8d1959fd24fd6997d799439c40
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="304148" tvg-name="[22:00] Ordabasy vs FC Kairat Almaty | BLV LUCAS" tvg-logo="https://sta.vnres.co/file/common/20260524/b8f9de856340fbcd5f2bfee9ac57acab.png" group-title="KAZ PR",[22:00] Ordabasy vs FC Kairat Almaty | BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779939027-0-0-790f8a8d1959fd24fd6997d799439c40
+#EXTINF:-1 tvg-id="9912050" tvg-name="[22:00] Ordabasy vs FC Kairat Almaty | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260524/b8f9de856340fbcd5f2bfee9ac57acab.png" group-title="KAZ PR",[22:00] Ordabasy vs FC Kairat Almaty | BLV LONG
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=ecbd6d199c4344ba6637570bf31b9c93&txTime=6a17afa9
 
