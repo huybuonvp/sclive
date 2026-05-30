@@ -2,41 +2,49 @@ name: Auto Scrape Live Streams
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Tự động chạy mỗi 20 phút một lần
+    - cron: '*/30 * * * *' # Chạy chính xác mỗi 30 phút một lần (có thể trễ do hàng đợi GitHub)
   workflow_dispatch: # Cho phép kích hoạt chạy bằng tay từ nút "Run workflow"
 
 jobs:
   update-streams:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Cho phép ghi dữ liệu lên Repo
+      contents: write # Cho phép ghi dữ liệu trực tiếp lên Repo
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Lấy toàn bộ lịch sử để tránh lỗi non-fast-forward
+          fetch-depth: 0 # Lấy toàn bộ lịch sử để quản lý nhánh tốt hơn
 
       - name: Set up Python Environment
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11' # Nâng lên 3.11 để xử lý thread nhanh hơn một chút
 
       - name: Install Critical Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install curl_cffi requests
+          pip install curl_cffi tzdata
 
       - name: Run Scraper Engine (JSON + M3U)
         run: python scraper.py -f m3u8 -o streams.json
 
-      - name: Commit Changes
+      - name: Commit & Push Changes (Safe Mode)
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add streams.json streams.m3u8
-          git diff --quiet && git diff --staged --quiet || git commit -m "System: Auto-update streams and IPTV playlist [skip ci]"
-
-      - name: Push Changes (Force)
-        run: |
-          git push origin main --force
+          
+          # Kiểm tra nếu không có gì thay đổi thì bỏ qua bước này
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes detected. Skipping push."
+          else
+            git commit -m "System: Auto-update streams and IPTV playlist [skip ci]"
+            
+            # Đồng bộ code mới nhất phòng trường hợp bạn có sửa đổi code trên nhánh chính
+            git pull origin main --rebase
+            
+            # Push an toàn không cần --force
+            git push origin main
+          fi
