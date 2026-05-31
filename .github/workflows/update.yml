@@ -2,7 +2,7 @@ name: Auto Scrape Live Streams
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Chạy chính xác mỗi 30 phút một lần (có thể trễ do hàng đợi GitHub)
+    - cron: '*/15 * * * *' # Chạy chính xác mỗi 15 phút một lần (có thể trễ do hàng đợi GitHub)
   workflow_dispatch: # Cho phép kích hoạt chạy bằng tay từ nút "Run workflow"
 
 jobs:
