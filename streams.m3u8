@@ -2,208 +2,123 @@
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912060" tvg-name="[12:00] Fagiano Okayama vs Urawa Red Diamonds | DECO" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png" group-title="JPN D1",[12:00] Fagiano Okayama vs Urawa Red Diamonds | DECO
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780206776-0-0-c290b0599479af924f840530f4ef35c0
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912106" tvg-name="[10:00] Franklin Bulls vs Auckland Tuatara | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260529/ec3e83d9fcdbf4a17f0814f1baa2e46c.png" group-title="NZBL",[10:00] Franklin Bulls vs Auckland Tuatara | BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780206776-0-0-0b290c4fa4b3361b67d8ea4d0ceb3a0f
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="611382" tvg-name="[11:30] Magic United TFA vs Queensland Lions SC | BLV HÚP" tvg-logo="https://sta.vnres.co/file/common/20260528/261ebd8ca35394e930bd4e2effef86c1.png" group-title="AUS NPLQ",[11:30] Magic United TFA vs Queensland Lions SC | BLV HÚP
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780206776-0-0-e0238a1772bb02ce31e3944ebf106d1d
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="611377" tvg-name="[11:30] Sydney United 58 FC vs Sutherland Sharks | TƯ MÃ Ý" tvg-logo="https://sta.vnres.co/file/common/20260528/776e533f377bb380ce5f875f0131e1af.png" group-title="AUS NSW",[11:30] Sydney United 58 FC vs Sutherland Sharks | TƯ MÃ Ý
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780206776-0-0-bab8d3185c8ea14e733bb2c7cf62c829
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="603255" tvg-name="[11:30] Magic United TFA vs Queensland Lions SC | BLV LION" tvg-logo="https://sta.vnres.co/file/common/20260528/261ebd8ca35394e930bd4e2effef86c1.png" group-title="AUS NPLQ",[11:30] Magic United TFA vs Queensland Lions SC | BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780206776-0-0-2d239253d26193313550d2f0487e5066
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912009" tvg-name="[12:00] Fagiano Okayama vs Urawa Red Diamonds | TYPN" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png" group-title="JPN D1",[12:00] Fagiano Okayama vs Urawa Red Diamonds | TYPN
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=b5a48919dcb904a1c4453cb44b8a0130&txTime=6a1c1308
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912122" tvg-name="[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | RICKHANTER" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png" group-title="JPN D1",[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ad268359103b74c8a21ac5f7e4576d89&txTime=6a1c1308
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="582342" tvg-name="[11:30] Sydney United 58 FC vs Sutherland Sharks | BLV CÒ" tvg-logo="https://sta.vnres.co/file/common/20260528/776e533f377bb380ce5f875f0131e1af.png" group-title="AUS NSW",[11:30] Sydney United 58 FC vs Sutherland Sharks | BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780206776-0-0-5d13e16be7ecb794fb0b70b63349fda3
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="494201" tvg-name="[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | BLV MESSI" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png" group-title="JPN D1",[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | BLV MESSI
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780206776-0-0-087db3b432d453f6c4e5594603f2905a
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="356042" tvg-name="[10:00] Franklin Bulls vs Auckland Tuatara | A CHÈ" tvg-logo="https://sta.vnres.co/file/common/20260529/ec3e83d9fcdbf4a17f0814f1baa2e46c.png" group-title="NZBL",[10:00] Franklin Bulls vs Auckland Tuatara | A CHÈ
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780206776-0-0-8816bddf6d38202c861ec94e643387d0
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="534219" tvg-name="[12:00] Fagiano Okayama vs Urawa Red Diamonds | BLV 7UP" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png" group-title="JPN D1",[12:00] Fagiano Okayama vs Urawa Red Diamonds | BLV 7UP
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780206776-0-0-96aa8786122fb8411384fc561dc7daf4
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912115" tvg-name="[10:00] Franklin Bulls vs Auckland Tuatara | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260529/ec3e83d9fcdbf4a17f0814f1baa2e46c.png" group-title="NZBL",[10:00] Franklin Bulls vs Auckland Tuatara | CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780206776-0-0-b1bb0b68d3545ef4cfe4f422a3b311a1
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="511367" tvg-name="[12:00] Blaublitz Akita vs Hokkaido Consadole Sapporo | BLV WUKONG" tvg-logo="https://sta.vnres.co/file/common/20260528/170d9f55de00309549a5d145a3588c46.png" group-title="JPN D2",[12:00] Blaublitz Akita vs Hokkaido Consadole Sapporo | BLV WUKONG
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780206776-0-0-953d8d457b8ce200c45f0795f8fe9b88
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="414317" tvg-name="[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | BLV TOMMY" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png" group-title="JPN D1",[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | BLV TOMMY
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=eee5c0662c5fd23bd87fd0ddaf7da32d&txTime=6a1c1308
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912091" tvg-name="[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png" group-title="JPN D1",[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780206776-0-0-ae3ea95d470a14839bc98400478aefa6
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="256080" tvg-name="[12:00] Fagiano Okayama vs Urawa Red Diamonds | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png" group-title="JPN D1",[12:00] Fagiano Okayama vs Urawa Red Diamonds | BLV CUỘI
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780206776-0-0-87ce65166af21bff75a983a577ca08b1
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912108" tvg-name="[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | TẠ BIÊN GIỚI" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png" group-title="JPN D1",[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | TẠ BIÊN GIỚI
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780206776-0-0-381a6fbbc8363c2863a6aafceee98e8f
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="459401" tvg-name="[12:00] Fagiano Okayama vs Urawa Red Diamonds | BLV BÉO" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png" group-title="JPN D1",[12:00] Fagiano Okayama vs Urawa Red Diamonds | BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=b9e68d3d75019cf9b145e402969e68d7&txTime=6a1c1308
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="462413" tvg-name="[12:00] Fagiano Okayama vs Urawa Red Diamonds | SAO LA" tvg-logo="https://sta.vnres.co/file/common/20260528/d8e5e2c72f64fdae2104d774d6aaf525.png" group-title="JPN D1",[12:00] Fagiano Okayama vs Urawa Red Diamonds | SAO LA
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=234d0d281c51ab4134a0118e6ab1d531&txTime=6a1c1308
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="387694" tvg-name="[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | CR Bưởi" tvg-logo="https://sta.vnres.co/file/common/20260528/441bc14357ea946e97328788f17ce545.png" group-title="JPN D1",[12:00] Shimizu S-Pulse vs Yokohama F. Marinos | CR Bưởi
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780206776-0-0-7aa42a345d14cd44a7f8332c308c6a04
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="612980" tvg-name="[12:00] Blaublitz Akita vs Hokkaido Consadole Sapporo | BLV AB" tvg-logo="https://sta.vnres.co/file/common/20260528/170d9f55de00309549a5d145a3588c46.png" group-title="JPN D2",[12:00] Blaublitz Akita vs Hokkaido Consadole Sapporo | BLV AB
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780206776-0-0-ee33d951e2272d6d69afd83c2d32a527
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912015" tvg-name="[14:00] St Albans Saints vs Preston Lions | BLV PEWPEW" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png" group-title="Aus VPL",[14:00] St Albans Saints vs Preston Lions | BLV PEWPEW
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780204033-0-0-74f627c956790e5097d642d224287422
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="527384" tvg-name="[14:00] St Albans Saints vs Preston Lions | LÃO LÂM" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png" group-title="Aus VPL",[14:00] St Albans Saints vs Preston Lions | LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780200064-0-0-449e0c5ecd6e95c9cfdb0f0f3bf1d520
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="472241" tvg-name="[14:00] St Albans Saints vs Preston Lions | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png" group-title="Aus VPL",[14:00] St Albans Saints vs Preston Lions | BLV XO
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780178265-0-0-d02350550227128283134fe6692b1eab
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="605412" tvg-name="[14:00] St Albans Saints vs Preston Lions | MONEY MAN" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png" group-title="Aus VPL",[14:00] St Albans Saints vs Preston Lions | MONEY MAN
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780196695-0-0-ef2e46e21a8e190deb4245bafac7b2d5
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="290928" tvg-name="[14:00] St Albans Saints vs Preston Lions | BLV MIXI" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png" group-title="Aus VPL",[14:00] St Albans Saints vs Preston Lions | BLV MIXI
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780178475-0-0-42c622e79979e4b64765cb3a541cbea5
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="491873" tvg-name="[14:15] West Adelaide SC vs Adelaide City FC | BLV VIP" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png" group-title="FFSA SL",[14:15] West Adelaide SC vs Adelaide City FC | BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=445daf6927748880622d22a64d35b341&txTime=6a1b3315
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912116" tvg-name="[14:30] Hwaseong FC vs Gyeongnam FC | THẠCH TÚ" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png" group-title="KOR D2",[14:30] Hwaseong FC vs Gyeongnam FC | THẠCH TÚ
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780171552-0-0-afeb1f2a3c9dcd2fbb14867937123f99
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="608899" tvg-name="[14:30] Hwaseong FC vs Gyeongnam FC | BLV NẤM" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png" group-title="KOR D2",[14:30] Hwaseong FC vs Gyeongnam FC | BLV NẤM
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780195097-0-0-ba9cea8079b9e8193cbe3f8375116f5f
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="548860" tvg-name="[14:00] St Albans Saints vs Preston Lions | VƯƠNG ANH" tvg-logo="https://sta.vnres.co/file/common/20260528/58dd853404bd8c00dbb4abc881793429.png" group-title="Aus VPL",[14:00] St Albans Saints vs Preston Lions | VƯƠNG ANH
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=7c48316be8879d0f4bf5b841aedf1ba7&txTime=6a1b4293
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="589848" tvg-name="[14:30] Hwaseong FC vs Gyeongnam FC | LOKA" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png" group-title="KOR D2",[14:30] Hwaseong FC vs Gyeongnam FC | LOKA
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780178524-0-0-5fa59225674bbb45ff03beb6fe90823f
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="501412" tvg-name="[14:30] Jeonnam Dragons vs Seoul E-Land FC | XUÂN SON" tvg-logo="https://sta.vnres.co/file/common/20260528/7203a081b2f85d46730a209f25e3f247.png" group-title="KOR D2",[14:30] Jeonnam Dragons vs Seoul E-Land FC | XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=28d94edecbdf0d19052a3d8ce98c6b23&txTime=6a1bd078
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="603914" tvg-name="[14:15] West Adelaide SC vs Adelaide City FC | TRÀ ĐÁ" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png" group-title="FFSA SL",[14:15] West Adelaide SC vs Adelaide City FC | TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780156455-0-0-1cfb4ca9a2fea5eaf5fe5c12c1f89e2a
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912110" tvg-name="[15:00] Brisbane Olympic United FC vs Brisbane City | BLV ĐỐM" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png" group-title="AUS NPLQ",[15:00] Brisbane Olympic United FC vs Brisbane City | BLV ĐỐM
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780203898-0-0-2efb1686437e2b6e4cfb6454fd5fcea8
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="560690" tvg-name="[14:30] Jeonnam Dragons vs Seoul E-Land FC | KÉP" tvg-logo="https://sta.vnres.co/file/common/20260528/7203a081b2f85d46730a209f25e3f247.png" group-title="KOR D2",[14:30] Jeonnam Dragons vs Seoul E-Land FC | KÉP
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780142099-0-0-48021e200060fb9f296f102366b2be27
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="595335" tvg-name="[15:00] Yeoju Citizen vs Daejeon Korail | NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png" group-title="KOR D3",[15:00] Yeoju Citizen vs Daejeon Korail | NGƯỜI CÁ
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780184379-0-0-8b69d6783278f6cb83ac4e1b28e88ea3
+#EXTINF:-1 tvg-id="582342" tvg-name="[14:30] Jeonnam Dragons vs Seoul E-Land FC | BLV CÒ" tvg-logo="https://sta.vnres.co/file/common/20260528/7203a081b2f85d46730a209f25e3f247.png" group-title="KOR D2",[14:30] Jeonnam Dragons vs Seoul E-Land FC | BLV CÒ
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780219076-0-0-d3ef905cbd9c2eb56160ea852f397fa7
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="445260" tvg-name="[15:00] Yeoju Citizen vs Daejeon Korail | BLV GÔN" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png" group-title="KOR D3",[15:00] Yeoju Citizen vs Daejeon Korail | BLV GÔN
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=f115ce9a474f7c332cbc0146e1a86689&txTime=6a1bdde8
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=0edfd0b8c5f030a72de67295be72a373&txTime=6a1c4314
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="513394" tvg-name="[15:00] Brisbane Olympic United FC vs Brisbane City | BLV KEM" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png" group-title="AUS NPLQ",[15:00] Brisbane Olympic United FC vs Brisbane City | BLV KEM
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780179368-0-0-f83825acf3450106ee2c03220c7ee952
+#EXTINF:-1 tvg-id="603914" tvg-name="[14:15] West Adelaide SC vs Adelaide City FC | TRÀ ĐÁ" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png" group-title="FFSA SL",[14:15] West Adelaide SC vs Adelaide City FC | TRÀ ĐÁ
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780219076-0-0-d1f0d881cbaaf7422ce7f7c0032c544c
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912122" tvg-name="[17:25] Japan vs Iceland | RICKHANTER" tvg-logo="https://sta.vnres.co/file/common/20260528/c8d29df0fddd4eebb5e378d9df236138.png" group-title="INTERF",[17:25] Japan vs Iceland | RICKHANTER
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b6b657f1980cea6b4f77dce9c1729bcf&txTime=6a1c314d
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="491873" tvg-name="[14:15] West Adelaide SC vs Adelaide City FC | BLV VIP" tvg-logo="https://sta.vnres.co/file/common/20260528/e998e15f256bf348d80a660fd461862b.png" group-title="FFSA SL",[14:15] West Adelaide SC vs Adelaide City FC | BLV VIP
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ccc5e3e025fb34c5d3357f883c4ff33d&txTime=6a1c4314
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="534219" tvg-name="[15:00] Brisbane Olympic United FC vs Brisbane City | BLV 7UP" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png" group-title="AUS NPLQ",[15:00] Brisbane Olympic United FC vs Brisbane City | BLV 7UP
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780219076-0-0-74544105b0990f03bab85899d2192419
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="608899" tvg-name="[14:30] Hwaseong FC vs Gyeongnam FC | BLV NẤM" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png" group-title="KOR D2",[14:30] Hwaseong FC vs Gyeongnam FC | BLV NẤM
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780219076-0-0-60792186557f05936cf5fd12fa67fb22
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="494201" tvg-name="[15:00] Brisbane Olympic United FC vs Brisbane City | BLV MESSI" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png" group-title="AUS NPLQ",[15:00] Brisbane Olympic United FC vs Brisbane City | BLV MESSI
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780219076-0-0-4ac1c7eb2367521e18aa3a9d2cb87c6c
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="991140" tvg-name="[15:00] Brisbane Olympic United FC vs Brisbane City | BLV FIREMAN" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png" group-title="AUS NPLQ",[15:00] Brisbane Olympic United FC vs Brisbane City | BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780193255-0-0-95b92ee97fc0b10a918526d44047c3ab
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780219076-0-0-6c631e37161a46049743f76f83cb492a
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="501412" tvg-name="[14:30] Jeonnam Dragons vs Seoul E-Land FC | XUÂN SON" tvg-logo="https://sta.vnres.co/file/common/20260528/7203a081b2f85d46730a209f25e3f247.png" group-title="KOR D2",[14:30] Jeonnam Dragons vs Seoul E-Land FC | XUÂN SON
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=32058cffc6797a16797de0d00f3600d7&txTime=6a1c4314
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="595335" tvg-name="[15:00] Yeoju Citizen vs Daejeon Korail | NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260528/b40af3a67198fbb918020b89927aad1b.png" group-title="KOR D3",[15:00] Yeoju Citizen vs Daejeon Korail | NGƯỜI CÁ
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780219076-0-0-29af9a186e504891c3adbd30d4167838
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912106" tvg-name="[16:15] Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel | BRIAN" tvg-logo="https://sta.vnres.co/file/common/20260529/de1d075d61adf1d0480e0c3cf1de3eef.png" group-title="PBCC",[16:15] Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel | BRIAN
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780219076-0-0-5d8a6c062eea2641b697a0354f30ba41
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912110" tvg-name="[15:00] Brisbane Olympic United FC vs Brisbane City | BLV ĐỐM" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png" group-title="AUS NPLQ",[15:00] Brisbane Olympic United FC vs Brisbane City | BLV ĐỐM
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780219076-0-0-14cd8f78bd6efea80235b24a05826404
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="560690" tvg-name="[14:30] Jeonnam Dragons vs Seoul E-Land FC | KÉP" tvg-logo="https://sta.vnres.co/file/common/20260528/7203a081b2f85d46730a209f25e3f247.png" group-title="KOR D2",[14:30] Jeonnam Dragons vs Seoul E-Land FC | KÉP
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780219076-0-0-3de4e46442831426015f4b493f0921bd
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="513394" tvg-name="[15:00] Brisbane Olympic United FC vs Brisbane City | BLV KEM" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png" group-title="AUS NPLQ",[15:00] Brisbane Olympic United FC vs Brisbane City | BLV KEM
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780219076-0-0-e1339ce6c916e957bf5351325bb6b0cd
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912115" tvg-name="[16:00] New Taipei Kings vs Formosa Dreamers | CHAN SENA" tvg-logo="https://sta.vnres.co/file/common/20260529/bf8f799c185f710b48a94ea17879eaf7.png" group-title="TPBL",[16:00] New Taipei Kings vs Formosa Dreamers | CHAN SENA
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780217980-0-0-87f104cadfb549a02751c9bbc26f4ecd
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="589848" tvg-name="[14:30] Hwaseong FC vs Gyeongnam FC | LOKA" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png" group-title="KOR D2",[14:30] Hwaseong FC vs Gyeongnam FC | LOKA
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780219076-0-0-a0c8425182ae10d1c9a8cef7726dea1e
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="372746" tvg-name="[14:30] Jeonnam Dragons vs Seoul E-Land FC | BLV YONE" tvg-logo="https://sta.vnres.co/file/common/20260528/7203a081b2f85d46730a209f25e3f247.png" group-title="KOR D2",[14:30] Jeonnam Dragons vs Seoul E-Land FC | BLV YONE
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780192868-0-0-92fe68fe6e3c30cda74ee28048e12396
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780219076-0-0-f09e486ec081b572e01aea3b37a1980a
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="611377" tvg-name="[14:30] Hwaseong FC vs Gyeongnam FC | TƯ MÃ Ý" tvg-logo="https://sta.vnres.co/file/common/20260528/3a881b9df9b644f513853138f6d89046.png" group-title="KOR D2",[14:30] Hwaseong FC vs Gyeongnam FC | TƯ MÃ Ý
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780219076-0-0-59f0273226941c2f2ad2078592996aad
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="9912041" tvg-name="[15:00] Brisbane Olympic United FC vs Brisbane City | BLV TAP" tvg-logo="https://sta.vnres.co/file/common/20260528/4fb967469e2ae5b53397addd41a15fe3.png" group-title="AUS NPLQ",[15:00] Brisbane Olympic United FC vs Brisbane City | BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=49b5d05997be6efd2e685ed8d63af081&txTime=6a1b8d09
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a4448efa837d6bcc84966dbc9b28dbb2&txTime=6a1c4314
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912108" tvg-name="[17:25] Japan vs Iceland | TẠ BIÊN GIỚI" tvg-logo="https://sta.vnres.co/file/common/20260528/c8d29df0fddd4eebb5e378d9df236138.png" group-title="INTERF",[17:25] Japan vs Iceland | TẠ BIÊN GIỚI
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780214406-0-0-3681f9d15c594c3f6e64c5dfac799151
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912091" tvg-name="[17:25] Japan vs Iceland | BLV Củ Cải" tvg-logo="https://sta.vnres.co/file/common/20260528/c8d29df0fddd4eebb5e378d9df236138.png" group-title="INTERF",[17:25] Japan vs Iceland | BLV Củ Cải
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780214581-0-0-bb8ace67d3f2431b7d3c63b51026fbd7
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="414317" tvg-name="[17:25] Japan vs Iceland | BLV TOMMY" tvg-logo="https://sta.vnres.co/file/common/20260528/c8d29df0fddd4eebb5e378d9df236138.png" group-title="INTERF",[17:25] Japan vs Iceland | BLV TOMMY
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=872fb94c8e61f03bf9a8ddc4bb34391d&txTime=6a1c31ff
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="462413" tvg-name="[17:25] Japan vs Iceland | SAO LA" tvg-logo="https://sta.vnres.co/file/common/20260528/c8d29df0fddd4eebb5e378d9df236138.png" group-title="INTERF",[17:25] Japan vs Iceland | SAO LA
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=aaf1ab15581cee27da1b509f9bec346e&txTime=6a1c309b
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -212,13 +127,23 @@ https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780178294-0-0-2a03
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="484845" tvg-name="[18:00] Cong An Ha Noi FC vs Becamex Ho Chi Minh City | A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260528/c0386aa949228f48d0be66c4457998b0.png" group-title="VIE D1",[18:00] Cong An Ha Noi FC vs Becamex Ho Chi Minh City | A BỆU
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780178370-0-0-b6fcc7a3e5b195c8675259ce37baece7
+#EXTINF:-1 tvg-id="9912060" tvg-name="[17:25] Japan vs Iceland | DECO" tvg-logo="https://sta.vnres.co/file/common/20260528/c8d29df0fddd4eebb5e378d9df236138.png" group-title="INTERF",[17:25] Japan vs Iceland | DECO
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780214342-0-0-4ec31b2a44f2a3cd66bd649babba81a4
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="602019" tvg-name="[18:00] Cong An Ho Chi Minh City vs The Cong Viettel | BLV RYO" tvg-logo="https://sta.vnres.co/file/common/20260528/54feddd025b681113c5b1f86e7cd5293.png" group-title="VIE D1",[18:00] Cong An Ho Chi Minh City vs The Cong Viettel | BLV RYO
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780205866-0-0-8cd266f3a22000b1071321b6c5db2b8c
+#EXTINF:-1 tvg-id="548860" tvg-name="[18:00] Cong An Ha Noi FC vs Becamex Ho Chi Minh City | VƯƠNG ANH" tvg-logo="https://sta.vnres.co/file/common/20260528/c0386aa949228f48d0be66c4457998b0.png" group-title="VIE D1",[18:00] Cong An Ha Noi FC vs Becamex Ho Chi Minh City | VƯƠNG ANH
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=0a4c992ec6c9b253c9d9c603436a781d&txTime=6a1c414c
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="387694" tvg-name="[18:00] Hoang Anh Gia Lai vs Hanoi FC | CR Bưởi" tvg-logo="https://sta.vnres.co/file/common/20260528/1b66e156f36be0f125d6ce996c64769c.png" group-title="VIE D1",[18:00] Hoang Anh Gia Lai vs Hanoi FC | CR Bưởi
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780214320-0-0-e995be80e36861283dd78e411c928b47
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="484845" tvg-name="[18:00] Cong An Ha Noi FC vs Becamex Ho Chi Minh City | A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260528/c0386aa949228f48d0be66c4457998b0.png" group-title="VIE D1",[18:00] Cong An Ha Noi FC vs Becamex Ho Chi Minh City | A BỆU
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780178370-0-0-b6fcc7a3e5b195c8675259ce37baece7
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -227,8 +152,18 @@ https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780194741-0-0-6a30
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912102" tvg-name="[18:00] Hong Linh Ha Tinh vs SHB Da Nang | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260528/f1ea8053d035f510f0898874631f37b8.png" group-title="VIE D1",[18:00] Hong Linh Ha Tinh vs SHB Da Nang | BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ef83571787cc9688a24f663e8a490e56&txTime=6a1c1161
+#EXTINF:-1 tvg-id="256080" tvg-name="[18:00] Hoang Anh Gia Lai vs Hanoi FC | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260528/1b66e156f36be0f125d6ce996c64769c.png" group-title="VIE D1",[18:00] Hoang Anh Gia Lai vs Hanoi FC | BLV CUỘI
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780214882-0-0-970827577633a0876e9f813b2c416460
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="602019" tvg-name="[18:00] Cong An Ho Chi Minh City vs The Cong Viettel | BLV RYO" tvg-logo="https://sta.vnres.co/file/common/20260528/54feddd025b681113c5b1f86e7cd5293.png" group-title="VIE D1",[18:00] Cong An Ho Chi Minh City vs The Cong Viettel | BLV RYO
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780205866-0-0-8cd266f3a22000b1071321b6c5db2b8c
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="611382" tvg-name="[18:00] Cong An Ho Chi Minh City vs The Cong Viettel | BLV HÚP" tvg-logo="https://sta.vnres.co/file/common/20260528/54feddd025b681113c5b1f86e7cd5293.png" group-title="VIE D1",[18:00] Cong An Ho Chi Minh City vs The Cong Viettel | BLV HÚP
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780212203-0-0-a367fe5d3a41f27a593294992f0a6dc0
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -247,28 +182,8 @@ https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780178375-0-0-e3f7
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="598119" tvg-name="[18:00] Thep Xanh Nam Dinh FC vs Song Lam Nghe An | BLV A TINH" tvg-logo="https://sta.vnres.co/file/common/20260528/0e34c02a9ba8f311c33e75cc6205370a.png" group-title="VIE D1",[18:00] Thep Xanh Nam Dinh FC vs Song Lam Nghe An | BLV A TINH
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=7e664802f2b44b9ed1135f54e1adb8da&txTime=6a1b6122
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="552832" tvg-name="[18:00] PVF-CAND FC vs XM Hai Phong FC | LOGAN" tvg-logo="https://sta.vnres.co/file/common/20260528/17edd4b9d1bfa0ce6a158340b56ec37c.png" group-title="VIE D1",[18:00] PVF-CAND FC vs XM Hai Phong FC | LOGAN
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780190730-0-0-f2fb7d9c1f571af9d3824ebfdfab79f9
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="606448" tvg-name="[18:00] PVF-CAND FC vs XM Hai Phong FC | BLV THÓC" tvg-logo="https://sta.vnres.co/file/common/20260528/17edd4b9d1bfa0ce6a158340b56ec37c.png" group-title="VIE D1",[18:00] PVF-CAND FC vs XM Hai Phong FC | BLV THÓC
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780153353-0-0-a8ec6aa37cc4cff2dec7d2df71911f1e
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="599634" tvg-name="[18:00] Thanh Hoa vs Ninh Binh FC | HẢI THANH" tvg-logo="https://sta.vnres.co/file/common/20260528/716fdfcd3adc07117122558a3112c363.png" group-title="VIE D1",[18:00] Thanh Hoa vs Ninh Binh FC | HẢI THANH
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780178372-0-0-6f8ca17d33da006e1697f30497b05d1e
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="485739" tvg-name="[18:00] Thep Xanh Nam Dinh FC vs Song Lam Nghe An | BLV CHIVAS" tvg-logo="https://sta.vnres.co/file/common/20260528/0e34c02a9ba8f311c33e75cc6205370a.png" group-title="VIE D1",[18:00] Thep Xanh Nam Dinh FC vs Song Lam Nghe An | BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2e244dbd9aa812aeb668a8fab3250dc0&txTime=6a194f15
+#EXTINF:-1 tvg-id="9912102" tvg-name="[18:00] Hong Linh Ha Tinh vs SHB Da Nang | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260528/f1ea8053d035f510f0898874631f37b8.png" group-title="VIE D1",[18:00] Hong Linh Ha Tinh vs SHB Da Nang | BLV RÔSI
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ef83571787cc9688a24f663e8a490e56&txTime=6a1c1161
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -277,8 +192,33 @@ https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780178322-0-0-111f
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="273736" tvg-name="[18:30] Singapore vs Mongolia | CHÍ PHÈO" tvg-logo="https://sta.vnres.co/file/common/20260528/2a4ae0bda44ea44178bcbb47f6a1ead1.png" group-title="INTERF",[18:30] Singapore vs Mongolia | CHÍ PHÈO
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1780200012-0-0-9af8d2d0621a5f0b3374a850a26a63c5
+#EXTINF:-1 tvg-id="485739" tvg-name="[18:00] Thep Xanh Nam Dinh FC vs Song Lam Nghe An | BLV CHIVAS" tvg-logo="https://sta.vnres.co/file/common/20260528/0e34c02a9ba8f311c33e75cc6205370a.png" group-title="VIE D1",[18:00] Thep Xanh Nam Dinh FC vs Song Lam Nghe An | BLV CHIVAS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2e244dbd9aa812aeb668a8fab3250dc0&txTime=6a194f15
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="598119" tvg-name="[18:00] Thep Xanh Nam Dinh FC vs Song Lam Nghe An | BLV A TINH" tvg-logo="https://sta.vnres.co/file/common/20260528/0e34c02a9ba8f311c33e75cc6205370a.png" group-title="VIE D1",[18:00] Thep Xanh Nam Dinh FC vs Song Lam Nghe An | BLV A TINH
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=7e664802f2b44b9ed1135f54e1adb8da&txTime=6a1b6122
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="606448" tvg-name="[18:00] PVF-CAND FC vs XM Hai Phong FC | BLV THÓC" tvg-logo="https://sta.vnres.co/file/common/20260528/17edd4b9d1bfa0ce6a158340b56ec37c.png" group-title="VIE D1",[18:00] PVF-CAND FC vs XM Hai Phong FC | BLV THÓC
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780153353-0-0-a8ec6aa37cc4cff2dec7d2df71911f1e
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="552832" tvg-name="[18:00] PVF-CAND FC vs XM Hai Phong FC | LOGAN" tvg-logo="https://sta.vnres.co/file/common/20260528/17edd4b9d1bfa0ce6a158340b56ec37c.png" group-title="VIE D1",[18:00] PVF-CAND FC vs XM Hai Phong FC | LOGAN
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780190730-0-0-f2fb7d9c1f571af9d3824ebfdfab79f9
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="603255" tvg-name="[18:00] Tianjin Jinmen Tiger vs Dalian Yingbo | BLV LION" tvg-logo="https://sta.vnres.co/file/common/20260528/af844fd28613ea72f0463bac2898ca8e.png" group-title="CHA SL",[18:00] Tianjin Jinmen Tiger vs Dalian Yingbo | BLV LION
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780212201-0-0-b24fe0942a519a5382b8fc5e4e1f6f60
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="599634" tvg-name="[18:00] Thanh Hoa vs Ninh Binh FC | HẢI THANH" tvg-logo="https://sta.vnres.co/file/common/20260528/716fdfcd3adc07117122558a3112c363.png" group-title="VIE D1",[18:00] Thanh Hoa vs Ninh Binh FC | HẢI THANH
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780178372-0-0-6f8ca17d33da006e1697f30497b05d1e
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -287,28 +227,18 @@ https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780200064-0-0-93a
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="9912116" tvg-name="[18:35] Wuhan Three Towns vs Yunnan Yukun | THẠCH TÚ" tvg-logo="https://sta.vnres.co/file/common/20260528/1ee5e9a99d187ffb11bcadcf2229ccf3.png" group-title="CHA SL",[18:35] Wuhan Three Towns vs Yunnan Yukun | THẠCH TÚ
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780171552-0-0-afeb1f2a3c9dcd2fbb14867937123f99
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="273736" tvg-name="[18:30] Singapore vs Mongolia | CHÍ PHÈO" tvg-logo="https://sta.vnres.co/file/common/20260528/2a4ae0bda44ea44178bcbb47f6a1ead1.png" group-title="INTERF",[18:30] Singapore vs Mongolia | CHÍ PHÈO
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1780200012-0-0-9af8d2d0621a5f0b3374a850a26a63c5
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="291277" tvg-name="[18:35] Wuhan Three Towns vs Yunnan Yukun | CÔNG CHẤT" tvg-logo="https://sta.vnres.co/file/common/20260528/1ee5e9a99d187ffb11bcadcf2229ccf3.png" group-title="CHA SL",[18:35] Wuhan Three Towns vs Yunnan Yukun | CÔNG CHẤT
 https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780197058-0-0-5aff598053b904126554b64200cc290e
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="558264" tvg-name="[18:35] Zhejiang Guangsha vs Shanghai | HUNTER" tvg-logo="https://sta.vnres.co/file/common/20260529/8a1a333703cfc3dee17a1a31b2b7df6a.png" group-title="CBA",[18:35] Zhejiang Guangsha vs Shanghai | HUNTER
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780199367-0-0-dcb286aabb8ad7083e460f550dce464e
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="9912050" tvg-name="[18:35] Wuhan Three Towns vs Yunnan Yukun | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260528/1ee5e9a99d187ffb11bcadcf2229ccf3.png" group-title="CHA SL",[18:35] Wuhan Three Towns vs Yunnan Yukun | BLV LONG
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=72eca440d25f2334d0ac07cf38372973&txTime=6a1bc7ef
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="602153" tvg-name="[19:00] Degerfors IF vs Brommapojkarna | QUỐC KHÁNH" tvg-logo="https://sta.vnres.co/file/common/20260528/0c55412e7b31f871a4621de6c1a04f17.png" group-title="SWE D1",[19:00] Degerfors IF vs Brommapojkarna | QUỐC KHÁNH
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=3b44c4f3e46db1a00b727067fbba7e29&txTime=6a1b95a1
-
-#KODIPROP:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="327159" tvg-name="[19:00] Hacken vs Hammarby | BLV COCA" tvg-logo="https://sta.vnres.co/file/common/20260528/ea0b0078c49fb29bcc213711ae3d3e56.png" group-title="SWE D1",[19:00] Hacken vs Hammarby | BLV COCA
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780203665-0-0-3b0e245949d5bedcaf72ae0b4bce4466
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -317,8 +247,43 @@ https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780199873-0-0-3a0e
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="558264" tvg-name="[18:35] Zhejiang Guangsha vs Shanghai | HUNTER" tvg-logo="https://sta.vnres.co/file/common/20260529/8a1a333703cfc3dee17a1a31b2b7df6a.png" group-title="CBA",[18:35] Zhejiang Guangsha vs Shanghai | HUNTER
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780199367-0-0-dcb286aabb8ad7083e460f550dce464e
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="602153" tvg-name="[19:00] Degerfors IF vs Brommapojkarna | QUỐC KHÁNH" tvg-logo="https://sta.vnres.co/file/common/20260528/0c55412e7b31f871a4621de6c1a04f17.png" group-title="SWE D1",[19:00] Degerfors IF vs Brommapojkarna | QUỐC KHÁNH
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=3b44c4f3e46db1a00b727067fbba7e29&txTime=6a1b95a1
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="557845" tvg-name="[19:00] Vasteras SK FK vs IFK Goteborg | BLV A TÚ" tvg-logo="https://sta.vnres.co/file/common/20260528/23a7b05841cd7578187fa775e7d0fb26.png" group-title="SWE D1",[19:00] Vasteras SK FK vs IFK Goteborg | BLV A TÚ
 https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780205455-0-0-b847179fa917171a040f200546783ec9
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="327159" tvg-name="[19:00] Hacken vs Hammarby | BLV COCA" tvg-logo="https://sta.vnres.co/file/common/20260528/ea0b0078c49fb29bcc213711ae3d3e56.png" group-title="SWE D1",[19:00] Hacken vs Hammarby | BLV COCA
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780203665-0-0-3b0e245949d5bedcaf72ae0b4bce4466
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="511367" tvg-name="[19:00] Hacken vs Hammarby | BLV WUKONG" tvg-logo="https://sta.vnres.co/file/common/20260528/ea0b0078c49fb29bcc213711ae3d3e56.png" group-title="SWE D1",[19:00] Hacken vs Hammarby | BLV WUKONG
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780217400-0-0-2f734379f026ea974eb62b2c4d989f87
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="612980" tvg-name="[19:00] Hacken vs Hammarby | BLV AB" tvg-logo="https://sta.vnres.co/file/common/20260528/ea0b0078c49fb29bcc213711ae3d3e56.png" group-title="SWE D1",[19:00] Hacken vs Hammarby | BLV AB
+https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780217291-0-0-ff77a5d3850c1898c2fe058911e54aa2
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="605412" tvg-name="[19:00] Buriram United vs PT Prachuap FC | MONEY MAN" tvg-logo="https://sta.vnres.co/file/common/20260528/f629c0f70ebf40a8eb8139a2842892d9.png" group-title="THA FAC",[19:00] Buriram United vs PT Prachuap FC | MONEY MAN
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780218899-0-0-80b8961fbb6b6051d571b0caf75f821c
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="290928" tvg-name="[19:00] Buriram United vs PT Prachuap FC | BLV MIXI" tvg-logo="https://sta.vnres.co/file/common/20260528/f629c0f70ebf40a8eb8139a2842892d9.png" group-title="THA FAC",[19:00] Buriram United vs PT Prachuap FC | BLV MIXI
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780217821-0-0-1decf31d0405051553388f0f3dd92b5e
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -332,6 +297,16 @@ https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780193554-0-0-7ac7
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="356042" tvg-name="[19:30] Nhatrang Dolphins vs Saigon Heat | A CHÈ" tvg-logo="https://sta.vnres.co/file/common/20260529/44589edaf277d3911b8d634f266d8f8c.png" group-title="VBA",[19:30] Nhatrang Dolphins vs Saigon Heat | A CHÈ
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780217874-0-0-02599c21d84c6a5ebaf25d816c7bf334
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="527384" tvg-name="[20:00] Switzerland vs Jordan | LÃO LÂM" tvg-logo="https://sta.vnres.co/file/common/20260528/438216b520fe98d916dd865e3d23d9f1.png" group-title="INTERF",[20:00] Switzerland vs Jordan | LÃO LÂM
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780219076-0-0-7ce970c2b64753ff9653842b685911d7
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="595715" tvg-name="[20:00] AC Oulu vs Jaro | PINKMAN" tvg-logo="https://sta.vnres.co/file/common/20260528/6fd737732372f6648fe94d30b45eb17d.png" group-title="FIN D1",[20:00] AC Oulu vs Jaro | PINKMAN
 https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=915b20daf5d7c61485362163766c4b67&txTime=6a1b9635
 
@@ -342,13 +317,28 @@ https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780178347-0-0-8eb
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="380460" tvg-name="[22:00] Cape Verde vs Serbia | BLV ENZO" tvg-logo="https://sta.vnres.co/file/common/20260528/0a4c964edc74f84e878d64917114c3dc.png" group-title="INTERF",[22:00] Cape Verde vs Serbia | BLV ENZO
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780203701-0-0-38feb2a836f541696b7e06e850f1a43c
+#EXTINF:-1 tvg-id="534055" tvg-name="[21:00] Red Bull Bragantino vs Internacional - RS | BLV RAMBO" tvg-logo="https://sta.vnres.co/file/common/20260528/23243a70d700427e7559fd31609a48fe.png" group-title="BRA D1",[21:00] Red Bull Bragantino vs Internacional - RS | BLV RAMBO
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8c29c057dcf28fbb908c8a09ade36478&txTime=6a1a215a
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="534055" tvg-name="[21:00] Red Bull Bragantino vs Internacional - RS | BLV RAMBO" tvg-logo="https://sta.vnres.co/file/common/20260528/23243a70d700427e7559fd31609a48fe.png" group-title="BRA D1",[21:00] Red Bull Bragantino vs Internacional - RS | BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8c29c057dcf28fbb908c8a09ade36478&txTime=6a1a215a
+#EXTINF:-1 tvg-id="9912009" tvg-name="[21:00] Czechia vs Kosovo | TYPN" tvg-logo="https://sta.vnres.co/file/common/20260528/a49122d1a62fc612fda9c92678dd4be1.png" group-title="INTERF",[21:00] Czechia vs Kosovo | TYPN
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=166c6751b8a3bd92c73420b601ef603d&txTime=6a1c30b9
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="459401" tvg-name="[21:00] Brighton & Hove Albion Women vs Manchester City Women | BLV BÉO" tvg-logo="https://sta.vnres.co/file/common/20260528/4240a4c6e449349d1ab01647d3e9ef5f.png" group-title="ENG FA WC",[21:00] Brighton & Hove Albion Women vs Manchester City Women | BLV BÉO
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=fa02b6e37cf7f35bd967a00084818fe8&txTime=6a1c3167
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="472241" tvg-name="[22:00] Cape Verde vs Serbia | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260528/0a4c964edc74f84e878d64917114c3dc.png" group-title="INTERF",[22:00] Cape Verde vs Serbia | BLV XO
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780218866-0-0-98d22cf7ff34008847feb7ae6b46fa61
+
+#KODIPROP:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="380460" tvg-name="[22:00] Cape Verde vs Serbia | BLV ENZO" tvg-logo="https://sta.vnres.co/file/common/20260528/0a4c964edc74f84e878d64917114c3dc.png" group-title="INTERF",[22:00] Cape Verde vs Serbia | BLV ENZO
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780203701-0-0-38feb2a836f541696b7e06e850f1a43c
 
 #KODIPROP:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
